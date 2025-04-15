@@ -12,7 +12,7 @@ The area data:
 - fishery management area: https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/fishery_management_council_regions_20210609/FeatureServer
 
 The site data:
-- https://apps-st.fisheries.noaa.gov/msd/
+- The Public Fishing Access Site Register is an online database that provides key details for nearly 5,300 fishing sites along the Atlantic and Gulf coasts, and in Puerto Rico and Hawai‘i. The register includes amenities like boat ramps, tackle shops, fuel docks, cleaning stations, nighttime lighting, and nearby restaurants and hotels. All of these characteristics inform our understanding of who uses the site and the type of fishing they do. Open the site register and click "Guest Login" to start searching. https://apps-st.fisheries.noaa.gov/msd/
 - Description for variables [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fapps-st.fisheries.noaa.gov%2Fmsd%2Fhelp%2FSite_Register_Export_Guide.xlsx%3Fdc%3D4.2.3.0-14-3685&wdOrigin=BROWSELINK)
 ## IV. Application of GIS
 ## V. Analysis
