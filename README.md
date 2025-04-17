@@ -20,6 +20,10 @@ MRIP data:
 - MRIP National Query
 - https://www.st.nmfs.noaa.gov/SASStoredProcess/guest_program=%2F%2FFoundation%2FSTP%2Fmrip_qry_index&qrycatch=Time+Series&qryeffort=Time+Series&qryparticipation=Time+Series&subnational=Goto+Query
 - User Handbook: https://media.fisheries.noaa.gov/2021-09/MRIP%20Data%20User%20Handbook%20Updated%202021-09-30.pdf
+
+State and State equivelent FIPS data:
+- https://www2.census.gov/geo/docs/reference/codes2020/national_state2020.txt
+- The file is downloaded as `national_state2020.txt`
 ## IV. Application of GIS
 ## V. Analysis
 ## VI. Conclusion
