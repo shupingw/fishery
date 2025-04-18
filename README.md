@@ -24,6 +24,14 @@ MRIP data:
 State and State equivelent FIPS data:
 - https://www2.census.gov/geo/docs/reference/codes2020/national_state2020.txt
 - The file is downloaded as `national_state2020.txt`
+
+Fishery landing and economic impact data:
+- FOSS: https://www.fisheries.noaa.gov/foss/f?p=215:200::::::
+- The historical landing value data is downloaded as `FOSS_landings.csv`
+- The economic impact data for commercial sector is downloaded as `commercial_impact_state.csv`
+- The economic impact data for recreational sector is downloaded as `recreational_impact_state.csv`
+- 
+
 ## IV. Application of GIS
 ## V. Analysis
 ## VI. Conclusion
