@@ -7,7 +7,7 @@ The fish licenses data
 - The file is downloaded as `Table_B._License_Hol_1743473324110.csv`
 
 The population data:
-- Prison Policy Initiative
+- Prison Policy Initiative: https://www.prisonpolicy.org/data/#statespecific
 
 The area data:
 - fishery management area: https://services2.arcgis.com/C8EMgrsFcRFL6LrL/arcgis/rest/services/fishery_management_council_regions_20210609/FeatureServer
