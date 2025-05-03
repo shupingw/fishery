@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 ### need to instal adjustText using Anaconda
-### conda install -c conda-forge adjusttext
+### conda install -c conda-forge adjustText
 
 #%% Step1: define a function to add council information to a dataset only has state name
 ## define a clean_value function to process numeric data as string
@@ -59,8 +59,24 @@ if __name__ == "__main__":
 
 com_imp = pd.read_csv(r'data/commercial_impact_state.csv')
 com_imp = com_imp.rename(columns={'State': 'state'})
+value_counts = com_imp['state'].value_counts()
+print("Count of each state:")
+print(value_counts)
+total_states = len(value_counts)
+print(f"Total number of states: {total_states}")
+## Output: Total number of states: 22
+
 com_imp_upd = add_council_info(df=com_imp)
 com_imp_df = com_imp_upd[(com_imp_upd['Sector'] == 'Total Impacts') & (com_imp_upd['Imports'] == 'Without Imports')]
+value_counts = com_imp_df['state'].value_counts()
+print("Count of each state:")
+print(value_counts)
+total_states = len(value_counts)
+print(f"Total number of states: {total_states}")
+## Output: Total number of states: 22
+## Note: this data does not have Florida information
+
+
 licenses = pd.read_csv(r'data/licenses.csv')
 licenses_df = licenses[(licenses['year'] == 2022)]
 licenses_df = licenses_df.drop(['state', 'council_id', 'council_name'], axis=1)
@@ -71,7 +87,7 @@ merged = com_imp_df.merge(licenses_df, on='fips', how='left')
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from adjustText import adjust_tex
+from adjustText import adjust_text
 
 # Load the data
 df = merged
@@ -98,17 +114,17 @@ for state in states:
     council = state_councils[0]  
     
     # Find data for this state
-    state_jobs = jobs_data[(jobs_data['state'] == state) & (jobs_data['Sector'] == 'Total Impacts')]    state_value = value_added_data[(value_added_data['state'] == state) & (value_added_data['Sector'] == 'Total Impacts')]
+    state_jobs = jobs_data[(jobs_data['state'] == state) & (jobs_data['Sector'] == 'Total Impacts')]    
     state_value = value_added_data[(value_added_data['state'] == state) & (value_added_data['Sector'] == 'Total Impacts')]
 
     # Get license data for this state
     state_licenses = df[df['state'] == state]['paid_holders'].values
-    if len(state_licenses) > 0:
+    if len(state_licenses) > 0 and len(state_value) > 0:
         license_value = state_licenses[0] 
     else:
         continue
     
-    if len(state_jobs) > 0 and len(state_income) > 0 and len(state_value) > 0:
+    if len(state_jobs) > 0 and len(state_value) > 0:
         jobs_value = state_jobs['Impact Value'].values[0] 
         value_added = state_value['Impact Value'].values[0]
         
@@ -201,6 +217,9 @@ for i, row in plot_df.iterrows():
 # Adjust the texts to prevent overlapping
 adjust_text(texts, arrowprops=dict(arrowstyle='->', color='red', alpha=0.5))
 
+## Add caption
+plt.tight_layout(rect=[0, 0.1, 1, 1])
+plt.figtext(0.80, -0.02, "Note: The size of the bubble represents the landing values of 2022. Florida data is missing.", ha='right', fontsize=16, style='italic')
 
 ## Add the reference line as y = 0.1x
 max_x_for_line = plot_df['licenses'].max() * 1.1  # Same buffer as used for xlim
@@ -217,7 +236,7 @@ plt.gca().yaxis.set_major_formatter(FuncFormatter(lambda y, p: '{:,}'.format(int
 
 # Save and show
 plt.tight_layout()
-plt.savefig('result/fishery_state_commercial_impact_jobs.png', dpi=300)
+plt.savefig('result/fishery_state_commercial_impact_jobs.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 

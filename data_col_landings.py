@@ -48,7 +48,26 @@ print('The maximum of year is', landings['year'].max())
 print('The maximum of year is', landings['year'].min())
 
 #%%
-## Section 2. Assign the council id to the landing data
+## Section 2. Adjust for the inflation
+cpi = pd.read_excel(r'data/SeriesReport-20250503122118_127e15.xlsx')
+
+cpi = cpi[['Year', 'Annual']]
+cpi = cpi.rename(columns={'Year': 'year', 'Annual':'annual'})
+
+merged_data = landings.merge(cpi, on='year', how='left')
+
+# Choose a base year (e.g., 2023 for current dollars)
+base_year = 2023
+base_cpi = merged_data[merged_data['year'] == base_year]['annual'].values[0]
+
+# Calculate the adjustment factor
+merged_data['cpi_adjustment_factor'] = base_cpi / merged_data['annual']
+
+merged_data['dollars_adjusted'] = merged_data['dollars']*merged_data['cpi_adjustment_factor']
+
+landings = merged_data
+#%%
+## Section 3. Assign the council id to the landing data
 
 # Create a dictionary mapping FIPS codes to Fishery Management Council IDs
 region_to_council = {

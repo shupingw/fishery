@@ -7,8 +7,8 @@ Created on Fri May  2 21:08:56 2025
 
 #%%
 import pandas as pd
-from ana_com import clean_value
-from ana_com import add_council_info
+from ana_com_imp import clean_value
+from ana_com_imp import add_council_info
 
 
 #%% Step1: Clean the data: combine the West Florida with West Florida across all impact types
@@ -208,13 +208,19 @@ for i, row in plot_df.iterrows():
 # Adjust the texts to prevent overlapping
 adjust_text(texts, arrowprops=dict(arrowstyle='->', color='red', alpha=0.5))
 
+# Add the caption
+plt.tight_layout(rect=[0, 0.1, 1, 1])
+plt.figtext(0.60, -0.02, "Note: The size of the bubble represents the landing values of 2022.", ha='right', fontsize=16, style='italic')
 
+
+
+# Add reference line
 max_x_for_line = plot_df['licenses'].max() * 1.1  # Same buffer as used for xlim
 x_line = np.linspace(0, max_x_for_line, 100)
 y_line = 0.05 * x_line
 plt.plot(x_line, y_line, color='red', linestyle='--', linewidth=2) ##label='y = 0.1x'
 
-plt.text(max_x/2, max_y/1.2, "Jobs equals 10% licenses holders", ha='center', fontsize=20, alpha=0.7)
+plt.text(max_x/2, max_y/1.2, "Jobs equals 5% licenses holders", ha='center', fontsize=20, alpha=0.7)
 
 # Format the axes with commas for thousands
 from matplotlib.ticker import FuncFormatter
@@ -223,7 +229,7 @@ plt.gca().yaxis.set_major_formatter(FuncFormatter(lambda y, p: '{:,}'.format(int
 
 # Save and show
 plt.tight_layout()
-plt.savefig('result/fishery_state_recreational_impact_jobs.png', dpi=300)
+plt.savefig('result/fishery_state_recreational_impact_jobs.png', dpi=300, bbox_inches='tight')
 plt.show()
 
 

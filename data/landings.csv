@@ -1,536 +1,536 @@
-year,region,pounds,dollars,sector,council_id,council_name
-2023,South Atlantic,97538716.0,171271020.0,Commercial,3,South Atlantic
-2023,Pacific Coast,865173365.0,621488827.0,Commercial,5,Pacific
-2023,New England,415966992.0,1350533650.0,Commercial,1,New England
-2023,Middle Atlantic,494771745.0,404779243.0,Commercial,2,Mid-Atlantic
-2023,Hawaii,28921571.0,124046295.0,Commercial,8,Western Pacific
-2023,Gulf,1265729615.0,794374981.0,Commercial,4,Gulf of Mexico
-2023,Alaska,5282176253.0,1613434289.0,Commercial,6,North Pacific
-2022,South Atlantic,91047587.0,173383793.0,Commercial,3,South Atlantic
-2022,Pacific Coast,1041682743.0,711517989.0,Commercial,5,Pacific
-2022,New England,428437642.0,1415570606.0,Commercial,1,New England
-2022,Middle Atlantic,506980668.0,415107120.0,Commercial,2,Mid-Atlantic
-2022,Hawaii,29185479.0,135159775.0,Commercial,8,Western Pacific
-2022,Gulf,1381227364.0,913107354.0,Commercial,4,Gulf of Mexico
-2022,Alaska,4818064002.0,2074780279.0,Commercial,6,North Pacific
-2021,South Atlantic,96217606.0,206983351.0,Commercial,3,South Atlantic
-2021,Pacific Coast,963951610.0,742647698.0,Commercial,5,Pacific
-2021,New England,501255108.0,1954589161.0,Commercial,1,New England
-2021,Middle Atlantic,568491605.0,509688852.0,Commercial,2,Mid-Atlantic
-2021,Hawaii,29636997.0,129108026.0,Commercial,8,Western Pacific
-2021,Gulf,1140663242.0,923053756.0,Commercial,4,Gulf of Mexico
-2021,Alaska,5272136213.0,2049565003.0,Commercial,6,North Pacific
-2020,South Atlantic,103494057.0,184091953.0,Commercial,3,South Atlantic
-2020,Pacific Coast,936767819.0,554792661.0,Commercial,5,Pacific
-2020,New England,485044467.0,1210205248.0,Commercial,1,New England
-2020,Middle Atlantic,559394206.0,536136210.0,Commercial,2,Mid-Atlantic
-2020,Hawaii,27261494.0,83828568.0,Commercial,8,Western Pacific
-2020,Gulf,1221271981.0,755359050.0,Commercial,4,Gulf of Mexico
-2020,Alaska,5061552232.0,1504910109.0,Commercial,6,North Pacific
-2019,South Atlantic,118328871.0,201555185.0,Commercial,3,South Atlantic
-2019,Pacific Coast,1006433198.0,646336225.0,Commercial,5,Pacific
-2019,New England,516480194.0,1505463904.0,Commercial,1,New England
-2019,Middle Atlantic,644739061.0,498276219.0,Commercial,2,Mid-Atlantic
-2019,Hawaii,34732450.0,109653295.0,Commercial,8,Western Pacific
-2019,Gulf,1413255885.0,828866977.0,Commercial,4,Gulf of Mexico
-2019,Alaska,5631389035.0,1754110799.0,Commercial,6,North Pacific
-2018,South Atlantic,97338302.0,175837730.0,Commercial,3,South Atlantic
-2018,Pacific Coast,1099864127.0,732678572.0,Commercial,5,Pacific
-2018,New England,596572971.0,1454536596.0,Commercial,1,New England
-2018,Middle Atlantic,629586129.0,478005701.0,Commercial,2,Mid-Atlantic
-2018,Hawaii,35636347.0,118795859.0,Commercial,8,Western Pacific
-2018,Gulf,1543096907.0,890570943.0,Commercial,4,Gulf of Mexico
-2018,Great Lakes,11798048.0,15226239.0,Commercial,9,Great Lakes
-2018,Alaska,5406034809.0,1717154156.0,Commercial,6,North Pacific
-2017,South Atlantic,111091646.0,204184399.0,Commercial,3,South Atlantic
-2017,Pacific Coast,1187267275.0,736788178.0,Commercial,5,Pacific
-2017,New England,578961144.0,1334207076.0,Commercial,1,New England
-2017,Middle Atlantic,617702905.0,510747958.0,Commercial,2,Mid-Atlantic
-2017,Hawaii,37420179.0,116550356.0,Commercial,8,Western Pacific
-2017,Gulf,1401487200.0,872814049.0,Commercial,4,Gulf of Mexico
-2017,Great Lakes,12943410.0,17716445.0,Commercial,9,Great Lakes
-2017,Alaska,6006230879.0,2003021420.0,Commercial,6,North Pacific
-2016,South Atlantic,106885656.0,190483241.0,Commercial,3,South Atlantic
-2016,Pacific Coast,958224519.0,726102114.0,Commercial,5,Pacific
-2016,New England,624389257.0,1431099813.0,Commercial,1,New England
-2016,Middle Atlantic,589320973.0,550650013.0,Commercial,2,Mid-Atlantic
-2016,Hawaii,35054961.0,118148142.0,Commercial,8,Western Pacific
-2016,Gulf,1737121436.0,890086294.0,Commercial,4,Gulf of Mexico
-2016,Great Lakes,13351428.0,16779673.0,Commercial,9,Great Lakes
-2016,Alaska,5585909187.0,1550842117.0,Commercial,6,North Pacific
-2015,South Atlantic,115578135.0,201201514.0,Commercial,3,South Atlantic
-2015,Pacific Coast,761705190.0,587903719.0,Commercial,5,Pacific
-2015,New England,608514141.0,1278116765.0,Commercial,1,New England
-2015,Middle Atlantic,644387047.0,527713500.0,Commercial,2,Mid-Atlantic
-2015,Hawaii,36647567.0,111029236.0,Commercial,8,Western Pacific
-2015,Gulf,1553292149.0,853706070.0,Commercial,4,Gulf of Mexico
-2015,Great Lakes,14754908.0,19162932.0,Commercial,9,Great Lakes
-2015,Alaska,6014135661.0,1767789837.0,Commercial,6,North Pacific
-2014,South Atlantic,115277179.0,193529190.0,Commercial,3,South Atlantic
-2014,Pacific Coast,1217264648.0,757102169.0,Commercial,5,Pacific
-2014,New England,659753185.0,1243097024.0,Commercial,1,New England
-2014,Middle Atlantic,595627319.0,478360275.0,Commercial,2,Mid-Atlantic
-2014,Hawaii,33436492.0,101299503.0,Commercial,8,Western Pacific
-2014,Gulf,1243723584.0,1057432674.0,Commercial,4,Gulf of Mexico
-2014,Great Lakes,14948923.0,22344887.0,Commercial,9,Great Lakes
-2014,Alaska,5671337204.0,1712192539.0,Commercial,6,North Pacific
-2013,South Atlantic,103349530.0,167466619.0,Commercial,3,South Atlantic
-2013,Pacific Coast,1268352448.0,812944928.0,Commercial,5,Pacific
-2013,New England,634757399.0,1162418400.0,Commercial,1,New England
-2013,Middle Atlantic,586710873.0,440211036.0,Commercial,2,Mid-Atlantic
-2013,Hawaii,32400139.0,107876425.0,Commercial,8,Western Pacific
-2013,Gulf,1351757697.0,930694192.0,Commercial,4,Gulf of Mexico
-2013,Great Lakes,15882926.0,21015648.0,Commercial,9,Great Lakes
-2013,Alaska,5791755145.0,1878360114.0,Commercial,6,North Pacific
-2012,South Atlantic,111571816.0,176969300.0,Commercial,3,South Atlantic
-2012,Pacific Coast,1086042401.0,683164954.0,Commercial,5,Pacific
-2012,New England,691304605.0,1271514648.0,Commercial,1,New England
-2012,Middle Atlantic,762665043.0,510012290.0,Commercial,2,Mid-Atlantic
-2012,Hawaii,31044584.0,112420244.0,Commercial,8,Western Pacific
-2012,Gulf,1669006559.0,781453404.0,Commercial,4,Gulf of Mexico
-2012,Great Lakes,18725404.0,23022353.0,Commercial,9,Great Lakes
-2012,Alaska,5346482209.0,1968960849.0,Commercial,6,North Pacific
-2011,South Atlantic,126566326.0,174977876.0,Commercial,3,South Atlantic
-2011,Pacific Coast,1190480753.0,714535703.0,Commercial,5,Pacific
-2011,New England,619757242.0,1125561888.0,Commercial,1,New England
-2011,Middle Atlantic,798969438.0,554146858.0,Commercial,2,Mid-Atlantic
-2011,Hawaii,29365819.0,91922057.0,Commercial,8,Western Pacific
-2011,Gulf,1768720243.0,805845347.0,Commercial,4,Gulf of Mexico
-2011,Great Lakes,18347844.0,19955881.0,Commercial,9,Great Lakes
-2011,Alaska,5355241900.0,2021004679.0,Commercial,6,North Pacific
-2010,South Atlantic,121272784.0,167702568.0,Commercial,3,South Atlantic
-2010,Pacific Coast,1091168262.0,560579878.0,Commercial,5,Pacific
-2010,New England,607185102.0,1036025721.0,Commercial,1,New England
-2010,Middle Atlantic,812410338.0,522517832.0,Commercial,2,Mid-Atlantic
-2010,Hawaii,27429346.0,83597749.0,Commercial,8,Western Pacific
-2010,Gulf,1276068040.0,604310342.0,Commercial,4,Gulf of Mexico
-2010,Great Lakes,17811745.0,17241931.0,Commercial,9,Great Lakes
-2010,Alaska,4349445619.0,1643438470.0,Commercial,6,North Pacific
-2009,South Atlantic,115214169.0,148390899.0,Commercial,3,South Atlantic
-2009,Pacific Coast,914130070.0,485373299.0,Commercial,5,Pacific
-2009,New England,662612646.0,823577367.0,Commercial,1,New England
-2009,Middle Atlantic,698884159.0,439344356.0,Commercial,2,Mid-Atlantic
-2009,Hawaii,26444578.0,71298520.0,Commercial,8,Western Pacific
-2009,Gulf,1597918545.0,636320635.0,Commercial,4,Gulf of Mexico
-2009,Great Lakes,19234656.0,18042175.0,Commercial,9,Great Lakes
-2009,Alaska,4070999338.0,1302843586.0,Commercial,6,North Pacific
-2008,South Atlantic,118696429.0,167559993.0,Commercial,3,South Atlantic
-2008,Pacific Coast,1104278063.0,488461457.0,Commercial,5,Pacific
-2008,New England,623448105.0,865505597.0,Commercial,1,New England
-2008,Middle Atlantic,687069833.0,449943243.0,Commercial,2,Mid-Atlantic
-2008,Hawaii,30627244.0,85208588.0,Commercial,8,Western Pacific
-2008,Gulf,1294855864.0,674241337.0,Commercial,4,Gulf of Mexico
-2008,Great Lakes,17263103.0,16627480.0,Commercial,9,Great Lakes
-2008,Alaska,4534585512.0,1757258133.0,Commercial,6,North Pacific
-2007,South Atlantic,106898230.0,153990975.0,Commercial,3,South Atlantic
-2007,Pacific Coast,1133947896.0,445418499.0,Commercial,5,Pacific
-2007,New England,593733398.0,916424049.0,Commercial,1,New England
-2007,Middle Atlantic,749616898.0,421089703.0,Commercial,2,Mid-Atlantic
-2007,Hawaii,28924728.0,75885756.0,Commercial,8,Western Pacific
-2007,Gulf,1410403004.0,692443181.0,Commercial,4,Gulf of Mexico
-2007,Great Lakes,18285090.0,16767012.0,Commercial,9,Great Lakes
-2007,Alaska,5314474152.0,1541000722.0,Commercial,6,North Pacific
-2006,South Atlantic,114549226.0,140442311.0,Commercial,3,South Atlantic
-2006,Pacific Coast,1191740841.0,455700686.0,Commercial,5,Pacific
-2006,New England,748782901.0,1132896386.0,Commercial,1,New England
-2006,Middle Atlantic,690899480.0,374202075.0,Commercial,2,Mid-Atlantic
-2006,Hawaii,25709446.0,66185720.0,Commercial,8,Western Pacific
-2006,Gulf,1416966099.0,682268830.0,Commercial,4,Gulf of Mexico
-2006,Great Lakes,18775484.0,14503682.0,Commercial,9,Great Lakes
-2006,Alaska,5421263745.0,1342293878.0,Commercial,6,North Pacific
-2005,South Atlantic,123383569.0,131508598.0,Commercial,3,South Atlantic
-2005,Pacific Coast,1158353316.0,400409108.0,Commercial,5,Pacific
-2005,New England,701379950.0,977935353.0,Commercial,1,New England
-2005,Middle Atlantic,709968541.0,450274355.0,Commercial,2,Mid-Atlantic
-2005,Hawaii,28109338.0,71107810.0,Commercial,8,Western Pacific
-2005,Gulf,1193584910.0,618033738.0,Commercial,4,Gulf of Mexico
-2005,Great Lakes,18401993.0,13575614.0,Commercial,9,Great Lakes
-2005,Alaska,5651307334.0,1287886961.0,Commercial,6,North Pacific
-2004,South Atlantic,200434134.0,162150225.0,Commercial,3,South Atlantic
-2004,Pacific Coast,1064296520.0,400661956.0,Commercial,5,Pacific
-2004,New England,731962598.0,833589639.0,Commercial,1,New England
-2004,Middle Atlantic,762654974.0,410464365.0,Commercial,2,Mid-Atlantic
-2004,Hawaii,24458917.0,57704714.0,Commercial,8,Western Pacific
-2004,Gulf,1452121853.0,641809626.0,Commercial,4,Gulf of Mexico
-2004,Great Lakes,16733198.0,12433119.0,Commercial,9,Great Lakes
-2004,Alaska,5354643130.0,1202463755.0,Commercial,6,North Pacific
-2003,South Atlantic,197369622.0,156451803.0,Commercial,3,South Atlantic
-2003,Pacific Coast,797941224.0,395759019.0,Commercial,5,Pacific
-2003,New England,660518315.0,690815001.0,Commercial,1,New England
-2003,Middle Atlantic,710759432.0,357221030.0,Commercial,2,Mid-Atlantic
-2003,Hawaii,23784168.0,52842665.0,Commercial,8,Western Pacific
-2003,Gulf,1595895410.0,662902465.0,Commercial,4,Gulf of Mexico
-2003,Great Lakes,16623850.0,12380177.0,Commercial,9,Great Lakes
-2003,Alaska,5305959744.0,989781418.0,Commercial,6,North Pacific
-2002,South Atlantic,216041785.0,170667823.0,Commercial,3,South Atlantic
-2002,Pacific Coast,882703009.0,323935320.0,Commercial,5,Pacific
-2002,New England,589024867.0,696501697.0,Commercial,1,New England
-2002,Middle Atlantic,702265512.0,342440684.0,Commercial,2,Mid-Atlantic
-2002,Hawaii,23300463.0,51307129.0,Commercial,8,Western Pacific
-2002,Gulf,1728898619.0,681646425.0,Commercial,4,Gulf of Mexico
-2002,Great Lakes,17474630.0,13173555.0,Commercial,9,Great Lakes
-2002,Alaska,5066262841.0,811545335.0,Commercial,6,North Pacific
-2001,South Atlantic,199127620.0,177614853.0,Commercial,3,South Atlantic
-2001,Pacific Coast,914007986.0,320922957.0,Commercial,5,Pacific
-2001,New England,631497979.0,638077757.0,Commercial,1,New England
-2001,Middle Atlantic,835471349.0,348300485.0,Commercial,2,Mid-Atlantic
-2001,Hawaii,20729134.0,42947659.0,Commercial,8,Western Pacific
-2001,Gulf,1613163314.0,807403056.0,Commercial,4,Gulf of Mexico
-2001,Great Lakes,17850743.0,15543331.0,Commercial,9,Great Lakes
-2001,Alaska,5036338447.0,869884842.0,Commercial,6,North Pacific
-2000,South Atlantic,221638632.0,220094673.0,Commercial,3,South Atlantic
-2000,Pacific Coast,1026881288.0,359225974.0,Commercial,5,Pacific
-2000,New England,576194048.0,688501385.0,Commercial,1,New England
-2000,Middle Atlantic,715405136.0,347403004.0,Commercial,2,Mid-Atlantic
-2000,Hawaii,32531330.0,68447404.0,Commercial,8,Western Pacific
-2000,Gulf,1795395790.0,997270263.0,Commercial,4,Gulf of Mexico
-2000,Great Lakes,18819894.0,17845408.0,Commercial,9,Great Lakes
-2000,Alaska,4465987099.0,956989763.0,Commercial,6,North Pacific
-1999,South Atlantic,215676429.0,204680750.0,Commercial,3,South Atlantic
-1999,Pacific Coast,976099158.0,340962421.0,Commercial,5,Pacific
-1999,New England,584063783.0,662196670.0,Commercial,1,New England
-1999,Middle Atlantic,753181222.0,350619940.0,Commercial,2,Mid-Atlantic
-1999,Hawaii,36906840.0,64556518.0,Commercial,8,Western Pacific
-1999,Gulf,2004445898.0,823364392.0,Commercial,4,Gulf of Mexico
-1999,Great Lakes,22247067.0,18509088.0,Commercial,9,Great Lakes
-1999,Alaska,4492648689.0,1103137968.0,Commercial,6,North Pacific
-1998,South Atlantic,240991054.0,198067441.0,Commercial,3,South Atlantic
-1998,Pacific Coast,653537355.0,270364411.0,Commercial,5,Pacific
-1998,New England,603560218.0,540453707.0,Commercial,1,New England
-1998,Middle Atlantic,915722982.0,355913851.0,Commercial,2,Mid-Atlantic
-1998,Hawaii,36426030.0,62064800.0,Commercial,8,Western Pacific
-1998,Gulf,1576300733.0,786449596.0,Commercial,4,Gulf of Mexico
-1998,Great Lakes,24535079.0,16025475.0,Commercial,9,Great Lakes
-1998,Alaska,4935227163.0,974626438.0,Commercial,6,North Pacific
-1997,South Atlantic,301168057.0,223837661.0,Commercial,3,South Atlantic
-1997,Pacific Coast,1004004698.0,376331081.0,Commercial,5,Pacific
-1997,New England,649088765.0,573467862.0,Commercial,1,New England
-1997,Middle Atlantic,905486275.0,358236236.0,Commercial,2,Mid-Atlantic
-1997,Hawaii,36568000.0,68693000.0,Commercial,8,Western Pacific
-1997,Gulf,1811649757.0,770716860.0,Commercial,4,Gulf of Mexico
-1997,Great Lakes,27124175.0,16276868.0,Commercial,9,Great Lakes
-1997,Alaska,4876386978.0,1182025467.0,Commercial,6,North Pacific
-1996,South Atlantic,271349897.0,213841056.0,Commercial,3,South Atlantic
-1996,Pacific Coast,965430453.0,393997477.0,Commercial,5,Pacific
-1996,New England,650434568.0,570835473.0,Commercial,1,New England
-1996,Middle Atlantic,984763236.0,345194894.0,Commercial,2,Mid-Atlantic
-1996,Hawaii,31870000.0,64288000.0,Commercial,8,Western Pacific
-1996,Gulf,1519937850.0,714870658.0,Commercial,4,Gulf of Mexico
-1996,Great Lakes,27272546.0,16605925.0,Commercial,9,Great Lakes
-1996,Alaska,4917426105.0,1219838580.0,Commercial,6,North Pacific
-1995,South Atlantic,274158369.0,247966795.0,Commercial,3,South Atlantic
-1995,Pacific Coast,938287917.0,371375356.0,Commercial,5,Pacific
-1995,New England,601240807.0,564910085.0,Commercial,1,New England
-1995,Middle Atlantic,1095992289.0,361851387.0,Commercial,2,Mid-Atlantic
-1995,Hawaii,29892000.0,59847000.0,Commercial,8,Western Pacific
-1995,Gulf,1488960975.0,764269570.0,Commercial,4,Gulf of Mexico
-1995,Great Lakes,27832139.0,16735787.0,Commercial,9,Great Lakes
-1995,Alaska,5201930987.0,1414386839.0,Commercial,6,North Pacific
-1994,South Atlantic,286562918.0,220193377.0,Commercial,3,South Atlantic
-1994,Pacific Coast,856161516.0,345151981.0,Commercial,5,Pacific
-1994,New England,553657525.0,551816834.0,Commercial,1,New England
-1994,Middle Atlantic,928605104.0,337192495.0,Commercial,2,Mid-Atlantic
-1994,Hawaii,27090000.0,62451000.0,Commercial,8,Western Pacific
-1994,Gulf,2161422246.0,790219742.0,Commercial,4,Gulf of Mexico
-1994,Great Lakes,30345390.0,19212677.0,Commercial,9,Great Lakes
-1994,Alaska,5241909121.0,1367951181.0,Commercial,6,North Pacific
-1993,South Atlantic,262283311.0,172811015.0,Commercial,3,South Atlantic
-1993,Pacific Coast,849163275.0,312487347.0,Commercial,5,Pacific
-1993,New England,640067881.0,561322137.0,Commercial,1,New England
-1993,Middle Atlantic,1082108787.0,330451207.0,Commercial,2,Mid-Atlantic
-1993,Hawaii,34582000.0,69082000.0,Commercial,8,Western Pacific
-1993,Gulf,1717963001.0,624459165.0,Commercial,4,Gulf of Mexico
-1993,Great Lakes,32175236.0,18673866.0,Commercial,9,Great Lakes
-1993,Alaska,5345729633.0,1251280868.0,Commercial,6,North Pacific
-1992,South Atlantic,242891987.0,155811519.0,Commercial,3,South Atlantic
-1992,Pacific Coast,855290915.0,311767244.0,Commercial,5,Pacific
-1992,New England,655650423.0,613894603.0,Commercial,1,New England
-1992,Middle Atlantic,952267611.0,285181429.0,Commercial,2,Mid-Atlantic
-1992,Hawaii,27893000.0,70219000.0,Commercial,8,Western Pacific
-1992,Gulf,1426004731.0,655640926.0,Commercial,4,Gulf of Mexico
-1992,Great Lakes,34376710.0,18213774.0,Commercial,9,Great Lakes
-1992,Alaska,5750946721.0,1662360164.0,Commercial,6,North Pacific
-1991,South Atlantic,297384735.0,173335517.0,Commercial,3,South Atlantic
-1991,Pacific Coast,912960848.0,308684014.0,Commercial,5,Pacific
-1991,New England,671811559.0,600160330.0,Commercial,1,New England
-1991,Middle Atlantic,1005602651.0,297835926.0,Commercial,2,Mid-Atlantic
-1991,Hawaii,27662000.0,57702000.0,Commercial,8,Western Pacific
-1991,Gulf,1672274707.0,681223248.0,Commercial,4,Gulf of Mexico
-1991,Great Lakes,32197956.0,21596451.0,Commercial,9,Great Lakes
-1991,Alaska,5008359334.0,1270589530.0,Commercial,6,North Pacific
-1990,South Atlantic,270678135.0,179312780.0,Commercial,3,South Atlantic
-1990,Pacific Coast,978660257.0,356162959.0,Commercial,5,Pacific
-1990,New England,668427208.0,557736020.0,Commercial,1,New England
-1990,Middle Atlantic,1083106136.0,314577883.0,Commercial,2,Mid-Atlantic
-1990,Hawaii,26582000.0,65009000.0,Commercial,8,Western Pacific
-1990,Gulf,1659732834.0,667346642.0,Commercial,4,Gulf of Mexico
-1990,Great Lakes,40741408.0,22354879.0,Commercial,9,Great Lakes
-1990,Alaska,5076048408.0,1493554088.0,Commercial,6,North Pacific
-1989,South Atlantic,263083516.0,188098486.0,Commercial,3,South Atlantic
-1989,Pacific Coast,1094148581.0,375722981.0,Commercial,5,Pacific
-1989,New England,576004325.0,523125914.0,Commercial,1,New England
-1989,Middle Atlantic,964265151.0,294339778.0,Commercial,2,Mid-Atlantic
-1989,Hawaii,24397000.0,47109000.0,Commercial,8,Western Pacific
-1989,Gulf,1780719928.0,692346094.0,Commercial,4,Gulf of Mexico
-1989,Great Lakes,46605384.0,22208845.0,Commercial,9,Great Lakes
-1989,Alaska,4000230926.0,1274057857.0,Commercial,6,North Pacific
-1988,South Atlantic,289791691.0,188195958.0,Commercial,3,South Atlantic
-1988,Pacific Coast,1000028395.0,459833877.0,Commercial,5,Pacific
-1988,New England,571319030.0,499953611.0,Commercial,1,New England
-1988,Middle Atlantic,892172065.0,283276572.0,Commercial,2,Mid-Atlantic
-1988,Hawaii,21131000.0,39749000.0,Commercial,8,Western Pacific
-1988,Gulf,1904394128.0,714252198.0,Commercial,4,Gulf of Mexico
-1988,Great Lakes,37753726.0,19630032.0,Commercial,9,Great Lakes
-1988,Alaska,2666271376.0,1382236705.0,Commercial,6,North Pacific
-1987,South Atlantic,254972303.0,169051944.0,Commercial,3,South Atlantic
-1987,Pacific Coast,938424730.0,455177827.0,Commercial,5,Pacific
-1987,New England,551470252.0,522200339.0,Commercial,1,New England
-1987,Middle Atlantic,955999657.0,290221792.0,Commercial,2,Mid-Atlantic
-1987,Hawaii,15566000.0,27326000.0,Commercial,8,Western Pacific
-1987,Gulf,2533038452.0,770473050.0,Commercial,4,Gulf of Mexico
-1987,Great Lakes,40494334.0,18874424.0,Commercial,9,Great Lakes
-1987,Alaska,1721219455.0,981742008.0,Commercial,6,North Pacific
-1986,South Atlantic,253896590.0,157586562.0,Commercial,3,South Atlantic
-1986,Pacific Coast,805140721.0,326418894.0,Commercial,5,Pacific
-1986,New England,553975753.0,448052138.0,Commercial,1,New England
-1986,Middle Atlantic,790114163.0,256901829.0,Commercial,2,Mid-Atlantic
-1986,Hawaii,10590000.0,20082000.0,Commercial,8,Western Pacific
-1986,Gulf,2366908923.0,807085983.0,Commercial,4,Gulf of Mexico
-1986,Great Lakes,41999304.0,16924998.0,Commercial,9,Great Lakes
-1986,Alaska,1306866097.0,804194354.0,Commercial,6,North Pacific
-1985,South Atlantic,307391242.0,157937316.0,Commercial,3,South Atlantic
-1985,Pacific Coast,808833748.0,276827410.0,Commercial,5,Pacific
-1985,New England,600678341.0,423753760.0,Commercial,1,New England
-1985,Middle Atlantic,986102288.0,238016931.0,Commercial,2,Mid-Atlantic
-1985,Hawaii,16987000.0,22022000.0,Commercial,8,Western Pacific
-1985,Gulf,2416974622.0,622336452.0,Commercial,4,Gulf of Mexico
-1985,Great Lakes,49179769.0,13953930.0,Commercial,9,Great Lakes
-1985,Alaska,1194498464.0,604299019.0,Commercial,6,North Pacific
-1984,South Atlantic,409952372.0,152357910.0,Commercial,3,South Atlantic
-1984,Pacific Coast,786096411.0,286529380.0,Commercial,5,Pacific
-1984,New England,717930679.0,450513533.0,Commercial,1,New England
-1984,Middle Atlantic,837092300.0,249034829.0,Commercial,2,Mid-Atlantic
-1984,Hawaii,34824000.0,29402000.0,Commercial,8,Western Pacific
-1984,Gulf,2634960276.0,663383112.0,Commercial,4,Gulf of Mexico
-1984,Great Lakes,53429820.0,14550918.0,Commercial,9,Great Lakes
-1984,Alaska,987747538.0,508546698.0,Commercial,6,North Pacific
-1983,South Atlantic,400313941.0,165662367.0,Commercial,3,South Atlantic
-1983,Pacific Coast,790264282.0,298078900.0,Commercial,5,Pacific
-1983,New England,707896775.0,429376442.0,Commercial,1,New England
-1983,Middle Atlantic,971221800.0,230896670.0,Commercial,2,Mid-Atlantic
-1983,Hawaii,28829000.0,17896000.0,Commercial,8,Western Pacific
-1983,Gulf,2517003842.0,633459980.0,Commercial,4,Gulf of Mexico
-1983,Great Lakes,61180570.0,13834130.0,Commercial,9,Great Lakes
-1983,Alaska,978831209.0,547831657.0,Commercial,6,North Pacific
-1982,South Atlantic,430861081.0,169303289.0,Commercial,3,South Atlantic
-1982,Pacific Coast,1183664337.0,386810308.0,Commercial,5,Pacific
-1982,New England,711792400.0,396617483.0,Commercial,1,New England
-1982,Middle Atlantic,913208800.0,212357607.0,Commercial,2,Mid-Atlantic
-1982,Hawaii,14245000.0,14426000.0,Commercial,8,Western Pacific
-1982,Gulf,2298388755.0,623903999.0,Commercial,4,Gulf of Mexico
-1982,Great Lakes,47705529.0,13688818.0,Commercial,9,Great Lakes
-1982,Alaska,886023391.0,571347763.0,Commercial,6,North Pacific
-1981,South Atlantic,537673292.0,132938654.0,Commercial,3,South Atlantic
-1981,Pacific Coast,1247790724.0,435124059.0,Commercial,5,Pacific
-1981,New England,721756800.0,377108318.0,Commercial,1,New England
-1981,Middle Atlantic,834186600.0,217587884.0,Commercial,2,Mid-Atlantic
-1981,Hawaii,13396000.0,18338000.0,Commercial,8,Western Pacific
-1981,Gulf,1680908069.0,566622337.0,Commercial,4,Gulf of Mexico
-1981,Great Lakes,48056947.0,15660436.0,Commercial,9,Great Lakes
-1981,Alaska,985682614.0,634627039.0,Commercial,6,North Pacific
-1980,South Atlantic,476710955.0,153382569.0,Commercial,3,South Atlantic
-1980,Pacific Coast,1383844043.0,446875896.0,Commercial,5,Pacific
-1980,New England,794219100.0,344452351.0,Commercial,1,New England
-1980,Middle Atlantic,968023800.0,231417424.0,Commercial,2,Mid-Atlantic
-1980,Gulf,1936940173.0,507750184.0,Commercial,4,Gulf of Mexico
-1980,Great Lakes,48754368.0,15710509.0,Commercial,9,Great Lakes
-1980,Alaska,998600681.0,547754840.0,Commercial,6,North Pacific
-1979,South Atlantic,489645790.0,146645143.0,Commercial,3,South Atlantic
-1979,Pacific Coast,1412682005.0,409202666.0,Commercial,5,Pacific
-1979,New England,708289400.0,302089533.0,Commercial,1,New England
-1979,Middle Atlantic,877030700.0,216922438.0,Commercial,2,Mid-Atlantic
-1979,Gulf,2098720176.0,548750210.0,Commercial,4,Gulf of Mexico
-1979,Great Lakes,55773501.0,12779925.0,Commercial,9,Great Lakes
-1979,Alaska,881886594.0,652052261.0,Commercial,6,North Pacific
-1978,South Atlantic,377380351.0,84286396.0,Commercial,3,South Atlantic
-1978,Pacific Coast,1296442070.0,370909899.0,Commercial,5,Pacific
-1978,New England,663316100.0,262121925.0,Commercial,1,New England
-1978,Middle Atlantic,801660800.0,174804738.0,Commercial,2,Mid-Atlantic
-1978,Gulf,2234812529.0,484771571.0,Commercial,4,Gulf of Mexico
-1978,Great Lakes,69824434.0,10534189.0,Commercial,9,Great Lakes
-1978,Alaska,784395354.0,504883505.0,Commercial,6,North Pacific
-1977,South Atlantic,346863800.0,71242500.0,Commercial,3,South Atlantic
-1977,Pacific Coast,1395733524.0,327533981.0,Commercial,5,Pacific
-1977,New England,585965000.0,207221950.0,Commercial,1,New England
-1977,Middle Atlantic,885219600.0,157027509.0,Commercial,2,Mid-Atlantic
-1977,Gulf,1482431100.0,408380520.0,Commercial,4,Gulf of Mexico
-1977,Great Lakes,72843041.0,10220824.0,Commercial,9,Great Lakes
-1977,Alaska,674933300.0,349198050.0,Commercial,6,North Pacific
-1976,South Atlantic,318481900.0,73955395.0,Commercial,3,South Atlantic
-1976,Pacific Coast,1470730062.0,303195187.0,Commercial,5,Pacific
-1976,New England,547480100.0,174138203.0,Commercial,1,New England
-1976,Middle Atlantic,855775000.0,142991964.0,Commercial,2,Mid-Atlantic
-1976,Gulf,1742620920.0,386432819.0,Commercial,4,Gulf of Mexico
-1976,Great Lakes,66720570.0,10536860.0,Commercial,9,Great Lakes
-1976,Alaska,650006600.0,242120381.0,Commercial,6,North Pacific
-1975,South Atlantic,333073100.0,63575362.0,Commercial,3,South Atlantic
-1975,Pacific Coast,1450422400.0,227604330.0,Commercial,5,Pacific
-1975,New England,498363300.0,154131958.0,Commercial,1,New England
-1975,Middle Atlantic,697215500.0,105767056.0,Commercial,2,Mid-Atlantic
-1975,Gulf,1654036100.0,270582479.0,Commercial,4,Gulf of Mexico
-1975,Great Lakes,61795382.0,9111666.0,Commercial,9,Great Lakes
-1975,Alaska,444143600.0,129713179.0,Commercial,6,North Pacific
-1974,South Atlantic,304662900.0,50787440.0,Commercial,3,South Atlantic
-1974,Pacific Coast,1267298000.0,241065702.0,Commercial,5,Pacific
-1974,New England,522491700.0,124334408.0,Commercial,1,New England
-1974,Middle Atlantic,808237700.0,101609044.0,Commercial,2,Mid-Atlantic
-1974,Gulf,1775800000.0,242225945.0,Commercial,4,Gulf of Mexico
-1974,Great Lakes,78474088.0,10522295.0,Commercial,9,Great Lakes
-1974,Alaska,463084640.0,145220050.0,Commercial,6,North Pacific
-1973,South Atlantic,240164800.0,57286781.0,Commercial,3,South Atlantic
-1973,Pacific Coast,1272902500.0,215777748.0,Commercial,5,Pacific
-1973,New England,518146500.0,117183927.0,Commercial,1,New England
-1973,Middle Atlantic,957923400.0,104886369.0,Commercial,2,Mid-Atlantic
-1973,Gulf,1543735300.0,266634944.0,Commercial,4,Gulf of Mexico
-1973,Great Lakes,68583134.0,8963477.0,Commercial,9,Great Lakes
-1973,Alaska,466285900.0,152299269.0,Commercial,6,North Pacific
-1972,South Atlantic,286323000.0,44874601.0,Commercial,3,South Atlantic
-1972,Pacific Coast,1190574400.0,166435429.0,Commercial,5,Pacific
-1972,New England,489254400.0,106638658.0,Commercial,1,New England
-1972,Middle Atlantic,976232300.0,85002350.0,Commercial,2,Mid-Atlantic
-1972,Gulf,1587892600.0,224450815.0,Commercial,4,Gulf of Mexico
-1972,Great Lakes,59654867.0,7075058.0,Commercial,9,Great Lakes
-1972,Alaska,455766400.0,102089981.0,Commercial,6,North Pacific
-1971,South Atlantic,258053456.0,41693162.0,Commercial,3,South Atlantic
-1971,Pacific Coast,1106423720.0,140184309.0,Commercial,5,Pacific
-1971,New England,513523700.0,94644224.0,Commercial,1,New England
-1971,Middle Atlantic,728442300.0,73906617.0,Commercial,2,Mid-Atlantic
-1971,Gulf,2096180983.0,199047842.0,Commercial,4,Gulf of Mexico
-1971,Great Lakes,64361072.0,5197480.0,Commercial,9,Great Lakes
-1971,Alaska,471218200.0,83766504.0,Commercial,6,North Pacific
-1970,South Atlantic,280365735.0,29841086.0,Commercial,3,South Atlantic
-1970,Pacific Coast,1187882100.0,142721587.0,Commercial,5,Pacific
-1970,New England,531271500.0,91031805.0,Commercial,1,New England
-1970,Middle Atlantic,770440700.0,70457999.0,Commercial,2,Mid-Atlantic
-1970,Gulf,1622605345.0,164769363.0,Commercial,4,Gulf of Mexico
-1970,Alaska,545325545.0,96117726.0,Commercial,6,North Pacific
-1969,South Atlantic,318708900.0,36358046.0,Commercial,3,South Atlantic
-1969,Pacific Coast,1072362100.0,110985034.0,Commercial,5,Pacific
-1969,New England,568257700.0,80577001.0,Commercial,1,New England
-1969,Middle Atlantic,491946200.0,61648866.0,Commercial,2,Mid-Atlantic
-1969,Gulf,1614144090.0,152281695.0,Commercial,4,Gulf of Mexico
-1969,Alaska,386090000.0,70430693.0,Commercial,6,North Pacific
-1968,South Atlantic,339440500.0,32942043.0,Commercial,3,South Atlantic
-1968,Pacific Coast,937167800.0,95415144.0,Commercial,5,Pacific
-1968,New England,634749000.0,75656127.0,Commercial,1,New England
-1968,Middle Atlantic,624388500.0,61723194.0,Commercial,2,Mid-Atlantic
-1968,Gulf,1288819496.0,138608413.0,Commercial,4,Gulf of Mexico
-1968,Alaska,549739200.0,79093030.0,Commercial,6,North Pacific
-1967,South Atlantic,353344000.0,25025103.0,Commercial,3,South Atlantic
-1967,Pacific Coast,1034146100.0,96477291.0,Commercial,5,Pacific
-1967,New England,625340000.0,70256504.0,Commercial,1,New England
-1967,Middle Atlantic,584379600.0,59006151.0,Commercial,2,Mid-Atlantic
-1967,Gulf,1176279474.0,125957769.0,Commercial,4,Gulf of Mexico
-1967,Alaska,361345100.0,47790051.0,Commercial,6,North Pacific
-1966,South Atlantic,367776100.0,27068252.0,Commercial,3,South Atlantic
-1966,Pacific Coast,908335600.0,90892120.0,Commercial,5,Pacific
-1966,New England,684374800.0,78247363.0,Commercial,1,New England
-1966,Middle Atlantic,669601300.0,56814003.0,Commercial,2,Mid-Atlantic
-1966,Gulf,1194940297.0,122178041.0,Commercial,4,Gulf of Mexico
-1966,Alaska,581670400.0,80717709.0,Commercial,6,North Pacific
-1965,South Atlantic,356651900.0,26789609.0,Commercial,3,South Atlantic
-1965,Pacific Coast,921823000.0,81987863.0,Commercial,5,Pacific
-1965,New England,702181676.0,74837045.0,Commercial,1,New England
-1965,Middle Atlantic,947485000.0,64870200.0,Commercial,2,Mid-Atlantic
-1965,Gulf,1462764662.0,113348529.0,Commercial,4,Gulf of Mexico
-1965,Alaska,492195300.0,70327090.0,Commercial,6,North Pacific
-1964,South Atlantic,335831900.0,20602150.0,Commercial,3,South Atlantic
-1964,Pacific Coast,909751600.0,76979017.0,Commercial,5,Pacific
-1964,New England,681856290.0,67595000.0,Commercial,1,New England
-1964,Middle Atlantic,906818900.0,56845406.0,Commercial,2,Mid-Atlantic
-1964,Gulf,1331326072.0,104463698.0,Commercial,4,Gulf of Mexico
-1964,Alaska,492613600.0,56015510.0,Commercial,6,North Pacific
-1963,South Atlantic,370716800.0,19467844.0,Commercial,3,South Atlantic
-1963,Pacific Coast,964716400.0,81966582.0,Commercial,5,Pacific
-1963,New England,828889000.0,68289224.0,Commercial,1,New England
-1963,Middle Atlantic,980672100.0,51148061.0,Commercial,2,Mid-Atlantic
-1963,Gulf,1404021480.0,101142296.0,Commercial,4,Gulf of Mexico
-1963,Alaska,391937500.0,45702680.0,Commercial,6,North Pacific
-1962,South Atlantic,305415700.0,23461626.0,Commercial,3,South Atlantic
-1962,Pacific Coast,974142700.0,85877354.0,Commercial,5,Pacific
-1962,New England,871681800.0,65774625.0,Commercial,1,New England
-1962,Middle Atlantic,1464981600.0,58819321.0,Commercial,2,Mid-Atlantic
-1962,Gulf,1438279415.0,96924492.0,Commercial,4,Gulf of Mexico
-1962,Alaska,429217800.0,57241650.0,Commercial,6,North Pacific
-1961,South Atlantic,402245600.0,19935936.0,Commercial,3,South Atlantic
-1961,Pacific Coast,1024082500.0,85252263.0,Commercial,5,Pacific
-1961,New England,760292300.0,60860267.0,Commercial,1,New England
-1961,Middle Atlantic,1304245600.0,61186719.0,Commercial,2,Mid-Atlantic
-1961,Gulf,1377111300.0,75520083.0,Commercial,4,Gulf of Mexico
-1961,Alaska,413468300.0,46469660.0,Commercial,6,North Pacific
-1960,South Atlantic,378879500.0,20229696.0,Commercial,3,South Atlantic
-1960,Pacific Coast,939349020.0,74637065.0,Commercial,5,Pacific
-1960,New England,851965100.0,61475975.0,Commercial,1,New England
-1960,Middle Atlantic,1220233800.0,56721631.0,Commercial,2,Mid-Atlantic
-1960,Gulf,1265950869.0,85458319.0,Commercial,4,Gulf of Mexico
-1960,Alaska,357712675.0,40933863.0,Commercial,6,North Pacific
-1959,South Atlantic,468712300.0,18870951.0,Commercial,3,South Atlantic
-1959,Pacific Coast,905599900.0,77837512.0,Commercial,5,Pacific
-1959,New England,933206400.0,66236498.0,Commercial,1,New England
-1959,Middle Atlantic,1350284200.0,61299701.0,Commercial,2,Mid-Atlantic
-1959,Gulf,1154950700.0,77639851.0,Commercial,4,Gulf of Mexico
-1959,Alaska,323522817.0,28786695.0,Commercial,6,North Pacific
-1958,South Atlantic,375655100.0,20077785.0,Commercial,3,South Atlantic
-1958,Pacific Coast,1123528900.0,92750509.0,Commercial,5,Pacific
-1958,New England,997747600.0,65480052.0,Commercial,1,New England
-1958,Middle Atlantic,1129270740.0,59965076.0,Commercial,2,Mid-Atlantic
-1958,Gulf,808836600.0,86539158.0,Commercial,4,Gulf of Mexico
-1958,Alaska,379086315.0,33196757.0,Commercial,6,North Pacific
-1957,South Atlantic,335187700.0,20649018.0,Commercial,3,South Atlantic
-1957,Pacific Coast,1005939600.0,78808685.0,Commercial,5,Pacific
-1957,New England,1030884100.0,60809755.0,Commercial,1,New England
-1957,Middle Atlantic,1376945200.0,61351557.0,Commercial,2,Mid-Atlantic
-1957,Gulf,691932900.0,84363714.0,Commercial,4,Gulf of Mexico
-1957,Alaska,371117428.0,31554199.0,Commercial,6,North Pacific
-1956,South Atlantic,443944800.0,19920812.0,Commercial,3,South Atlantic
-1956,Pacific Coast,1095837900.0,88230212.0,Commercial,5,Pacific
-1956,New England,1015245500.0,59272509.0,Commercial,1,New England
-1956,Middle Atlantic,1432143400.0,63803500.0,Commercial,2,Mid-Atlantic
-1956,Gulf,899773800.0,85377584.0,Commercial,4,Gulf of Mexico
-1956,Alaska,428145781.0,37739047.0,Commercial,6,North Pacific
-1955,South Atlantic,346573700.0,17274433.0,Commercial,3,South Atlantic
-1955,Pacific Coast,1048165600.0,83547465.0,Commercial,5,Pacific
-1955,New England,955418100.0,57242953.0,Commercial,1,New England
-1955,Middle Atlantic,1369383700.0,60859731.0,Commercial,2,Mid-Atlantic
-1955,Gulf,829638900.0,76286847.0,Commercial,4,Gulf of Mexico
-1955,Alaska,315322898.0,26767572.0,Commercial,6,North Pacific
-1954,South Atlantic,326063200.0,17560384.0,Commercial,3,South Atlantic
-1954,Pacific Coast,1038237900.0,99612567.0,Commercial,5,Pacific
-1954,New England,966440800.0,57601534.0,Commercial,1,New England
-1954,Middle Atlantic,1360656500.0,62599935.0,Commercial,2,Mid-Atlantic
-1954,Gulf,754699900.0,72572237.0,Commercial,4,Gulf of Mexico
-1954,Alaska,337628720.0,31251041.0,Commercial,6,North Pacific
-1953,South Atlantic,326544800.0,20157158.0,Commercial,3,South Atlantic
-1953,Pacific Coast,987270600.0,88061836.0,Commercial,5,Pacific
-1953,New England,864005000.0,60111970.0,Commercial,1,New England
-1953,Middle Atlantic,1307271900.0,56719666.0,Commercial,2,Mid-Atlantic
-1953,Gulf,759392700.0,85157157.0,Commercial,4,Gulf of Mexico
-1953,Alaska,296966462.0,26466835.0,Commercial,6,North Pacific
-1952,South Atlantic,436305000.0,19616828.0,Commercial,3,South Atlantic
-1952,Pacific Coast,1052179500.0,94098945.0,Commercial,5,Pacific
-1952,New England,954562500.0,67295992.0,Commercial,1,New England
-1952,Middle Atlantic,878081800.0,55790013.0,Commercial,2,Mid-Atlantic
-1952,Gulf,759507100.0,68220786.0,Commercial,4,Gulf of Mexico
-1952,Alaska,374184175.0,37238384.0,Commercial,6,North Pacific
-1951,South Atlantic,310779300.0,17965732.0,Commercial,3,South Atlantic
-1951,Pacific Coast,1296517000.0,100746805.0,Commercial,5,Pacific
-1951,New England,916807600.0,67431668.0,Commercial,1,New England
-1951,Middle Atlantic,886781500.0,54741099.0,Commercial,2,Mid-Atlantic
-1951,Gulf,649668300.0,63623145.0,Commercial,4,Gulf of Mexico
-1951,Alaska,407726696.0,39260240.0,Commercial,6,North Pacific
-1950,South Atlantic,260881400.0,18943779.0,Commercial,3,South Atlantic
-1950,Pacific Coast,1716453400.0,110917048.0,Commercial,5,Pacific
-1950,New England,1006589500.0,60576490.0,Commercial,1,New England
-1950,Middle Atlantic,873150700.0,53973253.0,Commercial,2,Mid-Atlantic
-1950,Gulf,570641100.0,50357945.0,Commercial,4,Gulf of Mexico
-1950,Alaska,482292622.0,31371626.0,Commercial,6,North Pacific
+year,region,pounds,dollars,sector,annual,cpi_adjustment_factor,dollars_adjusted,council_id,council_name
+2023,South Atlantic,97538716.0,171271020.0,Commercial,304.702,1.0,171271020.0,3,South Atlantic
+2023,Pacific Coast,865173365.0,621488827.0,Commercial,304.702,1.0,621488827.0,5,Pacific
+2023,New England,415966992.0,1350533650.0,Commercial,304.702,1.0,1350533650.0,1,New England
+2023,Middle Atlantic,494771745.0,404779243.0,Commercial,304.702,1.0,404779243.0,2,Mid-Atlantic
+2023,Hawaii,28921571.0,124046295.0,Commercial,304.702,1.0,124046295.0,8,Western Pacific
+2023,Gulf,1265729615.0,794374981.0,Commercial,304.702,1.0,794374981.0,4,Gulf of Mexico
+2023,Alaska,5282176253.0,1613434289.0,Commercial,304.702,1.0,1613434289.0,6,North Pacific
+2022,South Atlantic,91047587.0,173383793.0,Commercial,292.655,1.0411645111137688,180521052.0738959,3,South Atlantic
+2022,Pacific Coast,1041682743.0,711517989.0,Commercial,292.655,1.0411645111137688,740807279.1658369,5,Pacific
+2022,New England,428437642.0,1415570606.0,Commercial,292.655,1.0411645111137688,1473841877.9430115,1,New England
+2022,Middle Atlantic,506980668.0,415107120.0,Commercial,292.655,1.0411645111137688,432194801.65464455,2,Mid-Atlantic
+2022,Hawaii,29185479.0,135159775.0,Commercial,292.655,1.0411645111137688,140723561.06012198,8,Western Pacific
+2022,Gulf,1381227364.0,913107354.0,Commercial,292.655,1.0411645111137688,950694971.821797,4,Gulf of Mexico
+2022,Alaska,4818064002.0,2074780279.0,Commercial,292.655,1.0411645111137688,2160187594.8535237,6,North Pacific
+2021,South Atlantic,96217606.0,206983351.0,Commercial,270.97,1.1244861054729305,232749902.2637266,3,South Atlantic
+2021,Pacific Coast,963951610.0,742647698.0,Commercial,270.97,1.1244861054729305,835097017.662457,5,Pacific
+2021,New England,501255108.0,1954589161.0,Commercial,270.97,1.1244861054729305,2197908353.4524927,1,New England
+2021,Middle Atlantic,568491605.0,509688852.0,Commercial,270.97,1.1244861054729305,573138032.1884489,2,Mid-Atlantic
+2021,Hawaii,29636997.0,129108026.0,Commercial,270.97,1.1244861054729305,145180181.34203786,8,Western Pacific
+2021,Gulf,1140663242.0,923053756.0,Commercial,270.97,1.1244861054729305,1037961123.2266006,4,Gulf of Mexico
+2021,Alaska,5272136213.0,2049565003.0,Commercial,270.97,1.1244861054729305,2304707368.137085,6,North Pacific
+2020,South Atlantic,103494057.0,184091953.0,Commercial,258.811,1.177314720008037,216734166.1019277,3,South Atlantic
+2020,Pacific Coast,936767819.0,554792661.0,Commercial,258.811,1.177314720008037,653165566.3477287,5,Pacific
+2020,New England,485044467.0,1210205248.0,Commercial,258.811,1.177314720008037,1424792452.701377,1,New England
+2020,Middle Atlantic,559394206.0,536136210.0,Commercial,258.811,1.177314720008037,631201051.9623201,2,Mid-Atlantic
+2020,Hawaii,27261494.0,83828568.0,Commercial,258.811,1.177314720008037,98692607.06359468,8,Western Pacific
+2020,Gulf,1221271981.0,755359050.0,Commercial,258.811,1.177314720008037,889295328.4562868,4,Gulf of Mexico
+2020,Alaska,5061552232.0,1504910109.0,Commercial,258.811,1.177314720008037,1771752823.6145995,6,North Pacific
+2019,South Atlantic,118328871.0,201555185.0,Commercial,255.657,1.1918390656230808,240221343.3618872,3,South Atlantic
+2019,Pacific Coast,1006433198.0,646336225.0,Commercial,255.657,1.1918390656230808,770328762.4823494,5,Pacific
+2019,New England,516480194.0,1505463904.0,Commercial,255.657,1.1918390656230808,1794270692.6726356,1,New England
+2019,Middle Atlantic,644739061.0,498276219.0,Commercial,255.657,1.1918390656230808,593865063.2751616,2,Mid-Atlantic
+2019,Hawaii,34732450.0,109653295.0,Commercial,255.657,1.1918390656230808,130689080.65529205,8,Western Pacific
+2019,Gulf,1413255885.0,828866977.0,Commercial,255.657,1.1918390656230808,987876043.3935076,4,Gulf of Mexico
+2019,Alaska,5631389035.0,1754110799.0,Commercial,255.657,1.1918390656230808,2090617775.6795158,6,North Pacific
+2018,South Atlantic,97338302.0,175837730.0,Commercial,251.107,1.2134349102175566,213367640.11540896,3,South Atlantic
+2018,Pacific Coast,1099864127.0,732678572.0,Commercial,251.107,1.2134349102175566,889057757.2331475,5,Pacific
+2018,New England,596572971.0,1454536596.0,Commercial,251.107,1.2134349102175566,1764985483.7754104,1,New England
+2018,Middle Atlantic,629586129.0,478005701.0,Commercial,251.107,1.2134349102175566,580028804.8764151,2,Mid-Atlantic
+2018,Hawaii,35636347.0,118795859.0,Commercial,251.107,1.2134349102175566,144151042.49988252,8,Western Pacific
+2018,Gulf,1543096907.0,890570943.0,Commercial,251.107,1.2134349102175566,1080649872.2615697,4,Gulf of Mexico
+2018,Great Lakes,11798048.0,15226239.0,Commercial,251.107,1.2134349102175566,18476049.953916058,9,Great Lakes
+2018,Alaska,5406034809.0,1717154156.0,Commercial,251.107,1.2134349102175566,2083654799.115564,6,North Pacific
+2017,South Atlantic,111091646.0,204184399.0,Commercial,245.12,1.243072780678851,253816068.63617003,3,South Atlantic
+2017,Pacific Coast,1187267275.0,736788178.0,Commercial,245.12,1.243072780678851,915881329.1977643,5,Pacific
+2017,New England,578961144.0,1334207076.0,Commercial,245.12,1.243072780678851,1658516499.9647193,1,New England
+2017,Middle Atlantic,617702905.0,510747958.0,Commercial,245.12,1.243072780678851,634896884.377105,2,Mid-Atlantic
+2017,Hawaii,37420179.0,116550356.0,Commercial,245.12,1.243072780678851,144880575.12203002,8,Western Pacific
+2017,Gulf,1401487200.0,872814049.0,Commercial,245.12,1.243072780678851,1084971386.905997,4,Gulf of Mexico
+2017,Great Lakes,12943410.0,17716445.0,Commercial,245.12,1.243072780678851,22022830.549893927,9,Great Lakes
+2017,Alaska,6006230879.0,2003021420.0,Commercial,245.12,1.243072780678851,2489901406.318701,6,North Pacific
+2016,South Atlantic,106885656.0,190483241.0,Commercial,240.007,1.2695546379897253,241828882.07086462,3,South Atlantic
+2016,Pacific Coast,958224519.0,726102114.0,Commercial,240.007,1.2695546379897253,921826306.4828442,5,Pacific
+2016,New England,624389257.0,1431099813.0,Commercial,240.007,1.2695546379897253,1816859405.0203786,1,New England
+2016,Middle Atlantic,589320973.0,550650013.0,Commercial,240.007,1.2695546379897253,699080277.9132526,2,Mid-Atlantic
+2016,Hawaii,35054961.0,118148142.0,Commercial,240.007,1.2695546379897253,149995521.64596868,8,Western Pacific
+2016,Gulf,1737121436.0,890086294.0,Commercial,240.007,1.2695546379897253,1130013182.7587862,4,Gulf of Mexico
+2016,Great Lakes,13351428.0,16779673.0,Commercial,240.007,1.2695546379897253,21302711.68110097,9,Great Lakes
+2016,Alaska,5585909187.0,1550842117.0,Commercial,240.007,1.2695546379897253,1968878802.4271543,6,North Pacific
+2015,South Atlantic,115578135.0,201201514.0,Commercial,237.017,1.2855702333587886,258658677.30512157,3,South Atlantic
+2015,Pacific Coast,761705190.0,587903719.0,Commercial,237.017,1.2855702333587886,755791521.2273297,5,Pacific
+2015,New England,608514141.0,1278116765.0,Commercial,237.017,1.2855702333587886,1643108867.84083,1,New England
+2015,Middle Atlantic,644387047.0,527713500.0,Commercial,237.017,1.2855702333587886,678412767.3415831,2,Mid-Atlantic
+2015,Hawaii,36647567.0,111029236.0,Commercial,237.017,1.2855702333587886,142735880.83416802,8,Western Pacific
+2015,Gulf,1553292149.0,853706070.0,Commercial,237.017,1.2855702333587886,1097499111.6297143,4,Gulf of Mexico
+2015,Great Lakes,14754908.0,19162932.0,Commercial,237.017,1.2855702333587886,24635294.9630786,9,Great Lakes
+2015,Alaska,6014135661.0,1767789837.0,Commercial,237.017,1.2855702333587886,2272617993.281385,6,North Pacific
+2014,South Atlantic,115277179.0,193529190.0,Commercial,236.736,1.287096174641795,249090680.13052514,3,South Atlantic
+2014,Pacific Coast,1217264648.0,757102169.0,Commercial,236.736,1.287096174641795,974463305.5329058,5,Pacific
+2014,New England,659753185.0,1243097024.0,Commercial,236.736,1.287096174641795,1599985424.2989998,1,New England
+2014,Middle Atlantic,595627319.0,478360275.0,Commercial,236.736,1.287096174641795,615695680.0530971,2,Mid-Atlantic
+2014,Hawaii,33436492.0,101299503.0,Commercial,236.736,1.287096174641795,130382202.80441505,8,Western Pacific
+2014,Gulf,1243723584.0,1057432674.0,Commercial,236.736,1.287096174641795,1361017549.6466444,4,Gulf of Mexico
+2014,Great Lakes,14948923.0,22344887.0,Commercial,236.736,1.287096174641795,28760018.580503177,9,Great Lakes
+2014,Alaska,5671337204.0,1712192539.0,Commercial,236.736,1.287096174641795,2203756467.1971226,6,North Pacific
+2013,South Atlantic,103349530.0,167466619.0,Commercial,232.957,1.3079752915774157,219042199.81600899,3,South Atlantic
+2013,Pacific Coast,1268352448.0,812944928.0,Commercial,232.957,1.3079752915774157,1063311879.2371812,5,Pacific
+2013,New England,634757399.0,1162418400.0,Commercial,232.957,1.3079752915774157,1520414545.674953,1,New England
+2013,Middle Atlantic,586710873.0,440211036.0,Commercial,232.957,1.3079752915774157,575785158.1676962,2,Mid-Atlantic
+2013,Hawaii,32400139.0,107876425.0,Commercial,232.957,1.3079752915774157,141099698.44370422,8,Western Pacific
+2013,Gulf,1351757697.0,930694192.0,Commercial,232.957,1.3079752915774157,1217325007.1506073,4,Gulf of Mexico
+2013,Great Lakes,15882926.0,21015648.0,Commercial,232.957,1.3079752915774157,27487948.320488334,9,Great Lakes
+2013,Alaska,5791755145.0,1878360114.0,Commercial,232.957,1.3079752915774157,2456848617.796538,6,North Pacific
+2012,South Atlantic,111571816.0,176969300.0,Commercial,229.594,1.3271339843375698,234861972.2144307,3,South Atlantic
+2012,Pacific Coast,1086042401.0,683164954.0,Commercial,229.594,1.3271339843375698,906651427.3618126,5,Pacific
+2012,New England,691304605.0,1271514648.0,Commercial,229.594,1.3271339843375698,1687470300.9438226,1,New England
+2012,Middle Atlantic,762665043.0,510012290.0,Commercial,229.594,1.3271339843375698,676854642.4888281,2,Mid-Atlantic
+2012,Hawaii,31044584.0,112420244.0,Commercial,229.594,1.3271339843375698,149196726.33992177,8,Western Pacific
+2012,Gulf,1669006559.0,781453404.0,Commercial,229.594,1.3271339843375698,1037093369.6246766,4,Gulf of Mexico
+2012,Great Lakes,18725404.0,23022353.0,Commercial,229.594,1.3271339843375698,30553747.065716002,9,Great Lakes
+2012,Alaska,5346482209.0,1968960849.0,Commercial,229.594,1.3271339843375698,2613074856.538054,6,North Pacific
+2011,South Atlantic,126566326.0,174977876.0,Commercial,224.939,1.3545983577769973,237024743.47690707,3,South Atlantic
+2011,Pacific Coast,1190480753.0,714535703.0,Commercial,224.939,1.3545983577769973,967908889.8568323,5,Pacific
+2011,New England,619757242.0,1125561888.0,Commercial,224.939,1.3545983577769973,1524684285.0611765,1,New England
+2011,Middle Atlantic,798969438.0,554146858.0,Commercial,224.939,1.3545983577769973,750646423.814083,2,Mid-Atlantic
+2011,Hawaii,29365819.0,91922057.0,Commercial,224.939,1.3545983577769973,124517467.45568354,8,Western Pacific
+2011,Gulf,1768720243.0,805845347.0,Commercial,224.939,1.3545983577769973,1091596783.6684346,4,Gulf of Mexico
+2011,Great Lakes,18347844.0,19955881.0,Commercial,224.939,1.3545983577769973,27032203.630593184,9,Great Lakes
+2011,Alaska,5355241900.0,2021004679.0,Commercial,224.939,1.3545983577769973,2737649619.2330275,6,North Pacific
+2010,South Atlantic,121272784.0,167702568.0,Commercial,218.056,1.3973566423304105,234340297.33066735,3,South Atlantic
+2010,Pacific Coast,1091168262.0,560579878.0,Commercial,218.056,1.3973566423304105,783330016.0800711,5,Pacific
+2010,New England,607185102.0,1036025721.0,Commercial,218.056,1.3973566423304105,1447697422.8645027,1,New England
+2010,Middle Atlantic,812410338.0,522517832.0,Commercial,218.056,1.3973566423304105,730143763.2812855,2,Mid-Atlantic
+2010,Hawaii,27429346.0,83597749.0,Commercial,218.056,1.3973566423304105,116815869.84902042,8,Western Pacific
+2010,Gulf,1276068040.0,604310342.0,Commercial,218.056,1.3973566423304105,844437070.422662,4,Gulf of Mexico
+2010,Great Lakes,17811745.0,17241931.0,Commercial,218.056,1.3973566423304105,24093126.809452616,9,Great Lakes
+2010,Alaska,4349445619.0,1643438470.0,Commercial,218.056,1.3973566423304105,2296469662.315827,6,North Pacific
+2009,South Atlantic,115214169.0,148390899.0,Commercial,214.537,1.420277154989582,210756203.8580664,3,South Atlantic
+2009,Pacific Coast,914130070.0,485373299.0,Commercial,214.537,1.420277154989582,689364608.2116277,5,Pacific
+2009,New England,662612646.0,823577367.0,Commercial,214.537,1.420277154989582,1169708119.7165709,1,New England
+2009,Middle Atlantic,698884159.0,439344356.0,Commercial,214.537,1.420277154989582,623990752.0004101,2,Mid-Atlantic
+2009,Hawaii,26444578.0,71298520.0,Commercial,214.537,1.420277154989582,101263659.14056782,8,Western Pacific
+2009,Gulf,1597918545.0,636320635.0,Commercial,214.537,1.420277154989582,903751661.1389643,4,Gulf of Mexico
+2009,Great Lakes,19234656.0,18042175.0,Commercial,214.537,1.420277154989582,25624888.978824165,9,Great Lakes
+2009,Alaska,4070999338.0,1302843586.0,Commercial,214.537,1.420277154989582,1850398981.720505,6,North Pacific
+2008,South Atlantic,118696429.0,167559993.0,Commercial,215.303,1.4152241259991734,237134944.6458526,3,South Atlantic
+2008,Pacific Coast,1104278063.0,488461457.0,Commercial,215.303,1.4152241259991734,691282438.5671078,5,Pacific
+2008,New England,623448105.0,865505597.0,Commercial,215.303,1.4152241259991734,1224884402.0617177,1,New England
+2008,Middle Atlantic,687069833.0,449943243.0,Commercial,215.303,1.4152241259991734,636770532.8239087,2,Mid-Atlantic
+2008,Hawaii,30627244.0,85208588.0,Commercial,215.303,1.4152241259991734,120589249.47992365,8,Western Pacific
+2008,Gulf,1294855864.0,674241337.0,Commercial,215.303,1.4152241259991734,954202606.8683391,4,Gulf of Mexico
+2008,Great Lakes,17263103.0,16627480.0,Commercial,215.303,1.4152241259991734,23531610.850568734,9,Great Lakes
+2008,Alaska,4534585512.0,1757258133.0,Commercial,215.303,1.4152241259991734,2486914105.429864,6,North Pacific
+2007,South Atlantic,106898230.0,153990975.0,Commercial,207.342,1.4695623655602819,226299341.49593422,3,South Atlantic
+2007,Pacific Coast,1133947896.0,445418499.0,Commercial,207.342,1.4695623655602819,654570263.0547501,5,Pacific
+2007,New England,593733398.0,916424049.0,Commercial,207.342,1.4695623655602819,1346742293.3047717,1,New England
+2007,Middle Atlantic,749616898.0,421089703.0,Commercial,207.342,1.4695623655602819,618817580.0537565,2,Mid-Atlantic
+2007,Hawaii,28924728.0,75885756.0,Commercial,207.342,1.4695623655602819,111518851.09969035,8,Western Pacific
+2007,Gulf,1410403004.0,692443181.0,Commercial,207.342,1.4695623655602819,1017588439.0864464,4,Gulf of Mexico
+2007,Great Lakes,18285090.0,16767012.0,Commercial,207.342,1.4695623655602819,24640169.818097632,9,Great Lakes
+2007,Alaska,5314474152.0,1541000722.0,Commercial,207.342,1.4695623655602819,2264596666.352422,6,North Pacific
+2006,South Atlantic,114549226.0,140442311.0,Commercial,201.6,1.511418650793651,212267128.20596233,3,South Atlantic
+2006,Pacific Coast,1191740841.0,455700686.0,Commercial,201.6,1.511418650793651,688754515.9998611,5,Pacific
+2006,New England,748782901.0,1132896386.0,Commercial,201.6,1.511418650793651,1712280727.217123,1,New England
+2006,Middle Atlantic,690899480.0,374202075.0,Commercial,201.6,1.511418650793651,565575995.3206846,2,Mid-Atlantic
+2006,Hawaii,25709446.0,66185720.0,Commercial,201.6,1.511418650793651,100034331.62420635,8,Western Pacific
+2006,Gulf,1416966099.0,682268830.0,Commercial,201.6,1.511418650793651,1031193834.5171628,4,Gulf of Mexico
+2006,Great Lakes,18775484.0,14503682.0,Commercial,201.6,1.511418650793651,21921135.47998016,9,Great Lakes
+2006,Alaska,5421263745.0,1342293878.0,Commercial,201.6,1.511418650793651,2028768002.0553374,6,North Pacific
+2005,South Atlantic,123383569.0,131508598.0,Commercial,195.3,1.560174091141833,205176307.36198667,3,South Atlantic
+2005,Pacific Coast,1158353316.0,400409108.0,Commercial,195.3,1.560174091141833,624707916.158812,5,Pacific
+2005,New England,701379950.0,977935353.0,Commercial,195.3,1.560174091141833,1525749400.5622425,1,New England
+2005,Middle Atlantic,709968541.0,450274355.0,Commercial,195.3,1.560174091141833,702506382.5766001,2,Mid-Atlantic
+2005,Hawaii,28109338.0,71107810.0,Commercial,195.3,1.560174091141833,110940562.83983614,8,Western Pacific
+2005,Gulf,1193584910.0,618033738.0,Commercial,195.3,1.560174091141833,964240225.4791397,4,Gulf of Mexico
+2005,Great Lakes,18401993.0,13575614.0,Commercial,195.3,1.560174091141833,21180321.234142344,9,Great Lakes
+2005,Alaska,5651307334.0,1287886961.0,Commercial,195.3,1.560174091141833,2009327868.8715923,6,North Pacific
+2004,South Atlantic,200434134.0,162150225.0,Commercial,188.9,1.6130333509793542,261553720.79380625,3,South Atlantic
+2004,Pacific Coast,1064296520.0,400661956.0,Commercial,188.9,1.6130333509793542,646281097.4966226,5,Pacific
+2004,New England,731962598.0,833589639.0,Commercial,188.9,1.6130333509793542,1344607888.7378402,1,New England
+2004,Middle Atlantic,762654974.0,410464365.0,Commercial,188.9,1.6130333509793542,662092710.1335628,2,Mid-Atlantic
+2004,Hawaii,24458917.0,57704714.0,Commercial,188.9,1.6130333509793542,93079628.19072525,8,Western Pacific
+2004,Gulf,1452121853.0,641809626.0,Commercial,188.9,1.6130333509793542,1035260331.717586,4,Gulf of Mexico
+2004,Great Lakes,16733198.0,12433119.0,Commercial,188.9,1.6130333509793542,20055035.603695076,9,Great Lakes
+2004,Alaska,5354643130.0,1202463755.0,Commercial,188.9,1.6130333509793542,1939614140.1588671,6,North Pacific
+2003,South Atlantic,197369622.0,156451803.0,Commercial,184.0,1.6559891304347827,259082485.20492393,3,South Atlantic
+2003,Pacific Coast,797941224.0,395759019.0,Commercial,184.0,1.6559891304347827,655372633.7355326,5,Pacific
+2003,New England,660518315.0,690815001.0,Commercial,184.0,1.6559891304347827,1143982132.7972934,1,New England
+2003,Middle Atlantic,710759432.0,357221030.0,Commercial,184.0,1.6559891304347827,591554142.8427174,2,Mid-Atlantic
+2003,Hawaii,23784168.0,52842665.0,Commercial,184.0,1.6559891304347827,87506878.86320652,8,Western Pacific
+2003,Gulf,1595895410.0,662902465.0,Commercial,184.0,1.6559891304347827,1097759276.578424,4,Gulf of Mexico
+2003,Great Lakes,16623850.0,12380177.0,Commercial,184.0,1.6559891304347827,20501438.544858698,9,Great Lakes
+2003,Alaska,5305959744.0,989781418.0,Commercial,184.0,1.6559891304347827,1639067269.7143261,6,North Pacific
+2002,South Atlantic,216041785.0,170667823.0,Commercial,179.9,1.6937298499166202,289065186.2353863,3,South Atlantic
+2002,Pacific Coast,882703009.0,323935320.0,Commercial,179.9,1.6937298499166202,548658920.9262923,5,Pacific
+2002,New England,589024867.0,696501697.0,Commercial,179.9,1.6937298499166202,1179685714.7264812,1,New England
+2002,Middle Atlantic,702265512.0,342440684.0,Commercial,179.9,1.6937298499166202,580002008.3166648,2,Mid-Atlantic
+2002,Hawaii,23300463.0,51307129.0,Commercial,179.9,1.6937298499166202,86900415.90082267,8,Western Pacific
+2002,Gulf,1728898619.0,681646425.0,Commercial,179.9,1.6937298499166202,1154524897.1114507,4,Gulf of Mexico
+2002,Great Lakes,17474630.0,13173555.0,Commercial,179.9,1.6937298499166202,22312443.333018344,9,Great Lakes
+2002,Alaska,5066262841.0,811545335.0,Commercial,179.9,1.6937298499166202,1374538558.4500833,6,North Pacific
+2001,South Atlantic,199127620.0,177614853.0,Commercial,177.1,1.7205081874647092,305587808.8018408,3,South Atlantic
+2001,Pacific Coast,914007986.0,320922957.0,Commercial,177.1,1.7205081874647092,552150575.0638849,5,Pacific
+2001,New England,631497979.0,638077757.0,Commercial,177.1,1.7205081874647092,1097818005.157617,1,New England
+2001,Middle Atlantic,835471349.0,348300485.0,Commercial,177.1,1.7205081874647092,599253836.1404291,2,Mid-Atlantic
+2001,Hawaii,20729134.0,42947659.0,Commercial,177.1,1.7205081874647092,73891798.94194241,8,Western Pacific
+2001,Gulf,1613163314.0,807403056.0,Commercial,177.1,1.7205081874647092,1389143568.432027,4,Gulf of Mexico
+2001,Great Lakes,17850743.0,15543331.0,Commercial,177.1,1.7205081874647092,26742428.245974027,9,Great Lakes
+2001,Alaska,5036338447.0,869884842.0,Commercial,177.1,1.7205081874647092,1496643992.812445,6,North Pacific
+2000,South Atlantic,221638632.0,220094673.0,Commercial,172.2,1.7694657375145182,389449982.8829617,3,South Atlantic
+2000,Pacific Coast,1026881288.0,359225974.0,Commercial,172.2,1.7694657375145182,635638053.0182811,5,Pacific
+2000,New England,576194048.0,688501385.0,Commercial,172.2,1.7694657375145182,1218279610.9887922,1,New England
+2000,Middle Atlantic,715405136.0,347403004.0,Commercial,172.2,1.7694657375145182,614717712.6876191,2,Mid-Atlantic
+2000,Hawaii,32531330.0,68447404.0,Commercial,172.2,1.7694657375145182,121115336.19981419,8,Western Pacific
+2000,Gulf,1795395790.0,997270263.0,Commercial,172.2,1.7694657375145182,1764635561.4205925,4,Gulf of Mexico
+2000,Great Lakes,18819894.0,17845408.0,Commercial,172.2,1.7694657375145182,31576838.027967483,9,Great Lakes
+2000,Alaska,4465987099.0,956989763.0,Commercial,172.2,1.7694657375145182,1693360596.780639,6,North Pacific
+1999,South Atlantic,215676429.0,204680750.0,Commercial,166.6,1.8289435774309724,374349543.1362545,3,South Atlantic
+1999,Pacific Coast,976099158.0,340962421.0,Commercial,166.6,1.8289435774309724,623601030.0332654,5,Pacific
+1999,New England,584063783.0,662196670.0,Commercial,166.6,1.8289435774309724,1211120346.592677,1,New England
+1999,Middle Atlantic,753181222.0,350619940.0,Commercial,166.6,1.8289435774309724,641264087.3822329,2,Mid-Atlantic
+1999,Hawaii,36906840.0,64556518.0,Commercial,166.6,1.8289435774309724,118070228.97740696,8,Western Pacific
+1999,Gulf,2004445898.0,823364392.0,Commercial,166.6,1.8289435774309724,1505887016.6337576,4,Gulf of Mexico
+1999,Great Lakes,22247067.0,18509088.0,Commercial,166.6,1.8289435774309724,33852077.62170468,9,Great Lakes
+1999,Alaska,4492648689.0,1103137968.0,Commercial,166.6,1.8289435774309724,2017577101.5938535,6,North Pacific
+1998,South Atlantic,240991054.0,198067441.0,Commercial,163.0,1.8693374233128834,370254879.8011166,3,South Atlantic
+1998,Pacific Coast,653537355.0,270364411.0,Commercial,163.0,1.8693374233128834,505402311.4142454,5,Pacific
+1998,New England,603560218.0,540453707.0,Commercial,163.0,1.8693374233128834,1010290340.063276,1,New England
+1998,Middle Atlantic,915722982.0,355913851.0,Commercial,163.0,1.8693374233128834,665323081.1497055,2,Mid-Atlantic
+1998,Hawaii,36426030.0,62064800.0,Commercial,163.0,1.8693374233128834,116020053.31042945,8,Western Pacific
+1998,Gulf,1576300733.0,786449596.0,Commercial,163.0,1.8693374233128834,1470139661.3520982,4,Gulf of Mexico
+1998,Great Lakes,24535079.0,16025475.0,Commercial,163.0,1.8693374233128834,29957020.14386503,9,Great Lakes
+1998,Alaska,4935227163.0,974626438.0,Commercial,163.0,1.8693374233128834,1821905674.3035338,6,North Pacific
+1997,South Atlantic,301168057.0,223837661.0,Commercial,160.5,1.8984548286604361,424945688.3615078,3,South Atlantic
+1997,Pacific Coast,1004004698.0,376331081.0,Commercial,160.5,1.8984548286604361,714447557.8994517,5,Pacific
+1997,New England,649088765.0,573467862.0,Commercial,160.5,1.8984548286604361,1088702831.6954765,1,New England
+1997,Middle Atlantic,905486275.0,358236236.0,Commercial,160.5,1.8984548286604361,680095312.0353396,2,Mid-Atlantic
+1997,Hawaii,36568000.0,68693000.0,Commercial,160.5,1.8984548286604361,130410557.54517134,8,Western Pacific
+1997,Gulf,1811649757.0,770716860.0,Commercial,160.5,1.8984548286604361,1463171144.3970094,4,Gulf of Mexico
+1997,Great Lakes,27124175.0,16276868.0,Commercial,160.5,1.8984548286604361,30900898.650068536,9,Great Lakes
+1997,Alaska,4876386978.0,1182025467.0,Commercial,160.5,1.8984548286604361,2244021955.425757,6,North Pacific
+1996,South Atlantic,271349897.0,213841056.0,Commercial,156.9,1.9420140216698534,415282329.16068834,3,South Atlantic
+1996,Pacific Coast,965430453.0,393997477.0,Commercial,156.9,1.9420140216698534,765148624.8365456,5,Pacific
+1996,New England,650434568.0,570835473.0,Commercial,156.9,1.9420140216698534,1108570492.632543,1,New England
+1996,Middle Atlantic,984763236.0,345194894.0,Commercial,156.9,1.9420140216698534,670373324.3568387,2,Mid-Atlantic
+1996,Hawaii,31870000.0,64288000.0,Commercial,156.9,1.9420140216698534,124848197.42511153,8,Western Pacific
+1996,Gulf,1519937850.0,714870658.0,Commercial,156.9,1.9420140216698534,1388288841.5163543,4,Gulf of Mexico
+1996,Great Lakes,27272546.0,16605925.0,Commercial,156.9,1.9420140216698534,32248939.19279796,9,Great Lakes
+1996,Alaska,4917426105.0,1219838580.0,Commercial,156.9,1.9420140216698534,2368943626.533843,6,North Pacific
+1995,South Atlantic,274158369.0,247966795.0,Commercial,152.4,1.9993569553805774,495774136.2866798,3,South Atlantic
+1995,Pacific Coast,938287917.0,371375356.0,Commercial,152.4,1.9993569553805774,742511901.075538,5,Pacific
+1995,New England,601240807.0,564910085.0,Commercial,152.4,1.9993569553805774,1129456907.609383,1,New England
+1995,Middle Atlantic,1095992289.0,361851387.0,Commercial,152.4,1.9993569553805774,723470087.412559,2,Mid-Atlantic
+1995,Hawaii,29892000.0,59847000.0,Commercial,152.4,1.9993569553805774,119655515.70866142,8,Western Pacific
+1995,Gulf,1488960975.0,764269570.0,Commercial,152.4,1.9993569553805774,1528047680.5652232,4,Gulf of Mexico
+1995,Great Lakes,27832139.0,16735787.0,Commercial,152.4,1.9993569553805774,33460812.14221785,9,Great Lakes
+1995,Alaska,5201930987.0,1414386839.0,Commercial,152.4,1.9993569553805774,2827864164.153399,6,North Pacific
+1994,South Atlantic,286562918.0,220193377.0,Commercial,148.2,2.0560188933873147,452721743.3107558,3,South Atlantic
+1994,Pacific Coast,856161516.0,345151981.0,Commercial,148.2,2.0560188933873147,709638994.0260595,5,Pacific
+1994,New England,553657525.0,551816834.0,Commercial,148.2,2.0560188933873147,1134545836.3931715,1,New England
+1994,Middle Atlantic,928605104.0,337192495.0,Commercial,148.2,2.0560188933873147,693274140.4284077,2,Mid-Atlantic
+1994,Hawaii,27090000.0,62451000.0,Commercial,148.2,2.0560188933873147,128400435.91093118,8,Western Pacific
+1994,Gulf,2161422246.0,790219742.0,Commercial,148.2,2.0560188933873147,1624706719.4796493,4,Gulf of Mexico
+1994,Great Lakes,30345390.0,19212677.0,Commercial,148.2,2.0560188933873147,39501626.904547915,9,Great Lakes
+1994,Alaska,5241909121.0,1367951181.0,Commercial,148.2,2.0560188933873147,2812533473.3674903,6,North Pacific
+1993,South Atlantic,262283311.0,172811015.0,Commercial,144.5,2.1086643598615917,364400428.32200694,3,South Atlantic
+1993,Pacific Coast,849163275.0,312487347.0,Commercial,144.5,2.1086643598615917,658930931.526602,5,Pacific
+1993,New England,640067881.0,561322137.0,Commercial,144.5,2.1086643598615917,1183639984.6932456,1,New England
+1993,Middle Atlantic,1082108787.0,330451207.0,Commercial,144.5,2.1086643598615917,696810682.8741454,2,Mid-Atlantic
+1993,Hawaii,34582000.0,69082000.0,Commercial,144.5,2.1086643598615917,145670751.30795848,8,Western Pacific
+1993,Gulf,1717963001.0,624459165.0,Commercial,144.5,2.1086643598615917,1316774785.4244292,4,Gulf of Mexico
+1993,Great Lakes,32175236.0,18673866.0,Commercial,144.5,2.1086643598615917,39376915.69503114,9,Great Lakes
+1993,Alaska,5345729633.0,1251280868.0,Commercial,144.5,2.1086643598615917,2638531370.528277,6,North Pacific
+1992,South Atlantic,242891987.0,155811519.0,Commercial,140.3,2.171789023521026,338389746.7023378,3,South Atlantic
+1992,Pacific Coast,855290915.0,311767244.0,Commercial,140.3,2.171789023521026,677092678.4126015,5,Pacific
+1992,New England,655650423.0,613894603.0,Commercial,140.3,2.171789023521026,1333249560.394198,1,New England
+1992,Middle Atlantic,952267611.0,285181429.0,Commercial,140.3,2.171789023521026,619353897.2142408,2,Mid-Atlantic
+1992,Hawaii,27893000.0,70219000.0,Commercial,140.3,2.171789023521026,152500853.44262293,8,Western Pacific
+1992,Gulf,1426004731.0,655640926.0,Commercial,140.3,2.171789023521026,1423913766.4579613,4,Gulf of Mexico
+1992,Great Lakes,34376710.0,18213774.0,Commercial,140.3,2.171789023521026,39556474.45009265,9,Great Lakes
+1992,Alaska,5750946721.0,1662360164.0,Commercial,140.3,2.171789023521026,3610295557.3138127,6,North Pacific
+1991,South Atlantic,297384735.0,173335517.0,Commercial,136.2,2.2371659324522764,387780313.5164024,3,South Atlantic
+1991,Pacific Coast,912960848.0,308684014.0,Commercial,136.2,2.2371659324522764,690577360.0134215,5,Pacific
+1991,New England,671811559.0,600160330.0,Commercial,136.2,2.2371659324522764,1342658244.285316,1,New England
+1991,Middle Atlantic,1005602651.0,297835926.0,Commercial,136.2,2.2371659324522764,666308387.1075772,2,Mid-Atlantic
+1991,Hawaii,27662000.0,57702000.0,Commercial,136.2,2.2371659324522764,129088948.63436125,8,Western Pacific
+1991,Gulf,1672274707.0,681223248.0,Commercial,136.2,2.2371659324522764,1524009442.8200884,4,Gulf of Mexico
+1991,Great Lakes,32197956.0,21596451.0,Commercial,136.2,2.2371659324522764,48314844.4390749,9,Great Lakes
+1991,Alaska,5008359334.0,1270589530.0,Commercial,136.2,2.2371659324522764,2842519610.6465497,6,North Pacific
+1990,South Atlantic,270678135.0,179312780.0,Commercial,130.7,2.331308339709258,418033379.43045145,3,South Atlantic
+1990,Pacific Coast,978660257.0,356162959.0,Commercial,130.7,2.331308339709258,830325676.6122265,5,Pacific
+1990,New England,668427208.0,557736020.0,Commercial,130.7,2.331308339709258,1300254634.7822495,1,New England
+1990,Middle Atlantic,1083106136.0,314577883.0,Commercial,130.7,2.331308339709258,733378042.1259832,2,Mid-Atlantic
+1990,Hawaii,26582000.0,65009000.0,Commercial,130.7,2.331308339709258,151556023.85615915,8,Western Pacific
+1990,Gulf,1659732834.0,667346642.0,Commercial,130.7,2.331308339709258,1555790791.9715686,4,Gulf of Mexico
+1990,Great Lakes,40741408.0,22354879.0,Commercial,130.7,2.331308339709258,52116115.84589136,9,Great Lakes
+1990,Alaska,5076048408.0,1493554088.0,Commercial,130.7,2.331308339709258,3481935101.161255,6,North Pacific
+1989,South Atlantic,263083516.0,188098486.0,Commercial,124.0,2.457274193548387,462209555.49332255,3,South Atlantic
+1989,Pacific Coast,1094148581.0,375722981.0,Commercial,124.0,2.457274193548387,923254385.1343709,5,Pacific
+1989,New England,576004325.0,523125914.0,Commercial,124.0,2.457274193548387,1285463808.448613,1,New England
+1989,Middle Atlantic,964265151.0,294339778.0,Commercial,124.0,2.457274193548387,723273540.6141613,2,Mid-Atlantic
+1989,Hawaii,24397000.0,47109000.0,Commercial,124.0,2.457274193548387,115759729.98387097,8,Western Pacific
+1989,Gulf,1780719928.0,692346094.0,Commercial,124.0,2.457274193548387,1701284189.7902257,4,Gulf of Mexico
+1989,Great Lakes,46605384.0,22208845.0,Commercial,124.0,2.457274193548387,54573221.68701613,9,Great Lakes
+1989,Alaska,4000230926.0,1274057857.0,Commercial,124.0,2.457274193548387,3130709493.0936613,6,North Pacific
+1988,South Atlantic,289791691.0,188195958.0,Commercial,118.3,2.575672020287405,484731063.35178363,3,South Atlantic
+1988,Pacific Coast,1000028395.0,459833877.0,Commercial,118.3,2.575672020287405,1184381250.96918,5,Pacific
+1988,New England,571319030.0,499953611.0,Commercial,118.3,2.575672020287405,1287716527.2943535,1,New England
+1988,Middle Atlantic,892172065.0,283276572.0,Commercial,118.3,2.575672020287405,729627540.5033306,2,Mid-Atlantic
+1988,Hawaii,21131000.0,39749000.0,Commercial,118.3,2.575672020287405,102380387.13440406,8,Western Pacific
+1988,Gulf,1904394128.0,714252198.0,Commercial,118.3,2.575672020287405,1839679401.8173797,4,Gulf of Mexico
+1988,Great Lakes,37753726.0,19630032.0,Commercial,118.3,2.575672020287405,50560524.17974641,9,Great Lakes
+1988,Alaska,2666271376.0,1382236705.0,Commercial,118.3,2.575672020287405,3560188406.482756,6,North Pacific
+1987,South Atlantic,254972303.0,169051944.0,Commercial,113.6,2.682235915492958,453437195.78070426,3,South Atlantic
+1987,Pacific Coast,938424730.0,455177827.0,Commercial,113.6,2.682235915492958,1220894315.5154402,5,Pacific
+1987,New England,551470252.0,522200339.0,Commercial,113.6,2.682235915492958,1400664504.348398,1,New England
+1987,Middle Atlantic,955999657.0,290221792.0,Commercial,113.6,2.682235915492958,778443313.9611268,2,Mid-Atlantic
+1987,Hawaii,15566000.0,27326000.0,Commercial,113.6,2.682235915492958,73294778.62676057,8,Western Pacific
+1987,Gulf,2533038452.0,770473050.0,Commercial,113.6,2.682235915492958,2066590486.6294014,4,Gulf of Mexico
+1987,Great Lakes,40494334.0,18874424.0,Commercial,113.6,2.682235915492958,50625657.93704225,9,Great Lakes
+1987,Alaska,1721219455.0,981742008.0,Commercial,113.6,2.682235915492958,2633263673.605775,6,North Pacific
+1986,South Atlantic,253896590.0,157586562.0,Commercial,109.6,2.7801277372262776,438110772.0303285,3,South Atlantic
+1986,Pacific Coast,805140721.0,326418894.0,Commercial,109.6,2.7801277372262776,907486221.1641241,5,Pacific
+1986,New England,553975753.0,448052138.0,Commercial,109.6,2.7801277372262776,1245642176.5773358,1,New England
+1986,Middle Atlantic,790114163.0,256901829.0,Commercial,109.6,2.7801277372262776,714219900.5470622,2,Mid-Atlantic
+1986,Hawaii,10590000.0,20082000.0,Commercial,109.6,2.7801277372262776,55830525.21897811,8,Western Pacific
+1986,Gulf,2366908923.0,807085983.0,Commercial,109.6,2.7801277372262776,2243802127.664836,4,Gulf of Mexico
+1986,Great Lakes,41999304.0,16924998.0,Commercial,109.6,2.7801277372262776,47053656.39229927,9,Great Lakes
+1986,Alaska,1306866097.0,804194354.0,Commercial,109.6,2.7801277372262776,2235763029.676168,6,North Pacific
+1985,South Atlantic,307391242.0,157937316.0,Commercial,107.6,2.831802973977695,447247361.150855,3,South Atlantic
+1985,Pacific Coast,808833748.0,276827410.0,Commercial,107.6,2.831802973977695,783920682.9165428,5,Pacific
+1985,New England,600678341.0,423753760.0,Commercial,107.6,2.831802973977695,1199987157.8022304,1,New England
+1985,Middle Atlantic,986102288.0,238016931.0,Commercial,107.6,2.831802973977695,674017053.0628438,2,Mid-Atlantic
+1985,Hawaii,16987000.0,22022000.0,Commercial,107.6,2.831802973977695,62361965.0929368,8,Western Pacific
+1985,Gulf,2416974622.0,622336452.0,Commercial,107.6,2.831802973977695,1762334215.5883272,4,Gulf of Mexico
+1985,Great Lakes,49179769.0,13953930.0,Commercial,107.6,2.831802973977695,39514780.472676575,9,Great Lakes
+1985,Alaska,1194498464.0,604299019.0,Commercial,107.6,2.831802973977695,1711255759.1760037,6,North Pacific
+1984,South Atlantic,409952372.0,152357910.0,Commercial,103.9,2.9326467757459094,446811933.52088547,3,South Atlantic
+1984,Pacific Coast,786096411.0,286529380.0,Commercial,103.9,2.9326467757459094,840289462.4134744,5,Pacific
+1984,New England,717930679.0,450513533.0,Commercial,103.9,2.9326467757459094,1321197059.9823484,1,New England
+1984,Middle Atlantic,837092300.0,249034829.0,Commercial,103.9,2.9326467757459094,730331188.3152839,2,Mid-Atlantic
+1984,Hawaii,34824000.0,29402000.0,Commercial,103.9,2.9326467757459094,86225680.50048123,8,Western Pacific
+1984,Gulf,2634960276.0,663383112.0,Commercial,103.9,2.9326467757459094,1945468344.4910874,4,Gulf of Mexico
+1984,Great Lakes,53429820.0,14550918.0,Commercial,103.9,2.9326467757459094,42672702.75684311,9,Great Lakes
+1984,Alaska,987747538.0,508546698.0,Commercial,103.9,2.9326467757459094,1491387834.2059288,6,North Pacific
+1983,South Atlantic,400313941.0,165662367.0,Commercial,99.6,3.05925702811245,506803760.538494,3,South Atlantic
+1983,Pacific Coast,790264282.0,298078900.0,Commercial,99.6,3.05925702811245,911899969.7570281,5,Pacific
+1983,New England,707896775.0,429376442.0,Commercial,99.6,3.05925702811245,1313572897.8944178,1,New England
+1983,Middle Atlantic,971221800.0,230896670.0,Commercial,99.6,3.05925702811245,706372260.4652611,2,Mid-Atlantic
+1983,Hawaii,28829000.0,17896000.0,Commercial,99.6,3.05925702811245,54748463.7751004,8,Western Pacific
+1983,Gulf,2517003842.0,633459980.0,Commercial,99.6,3.05925702811245,1937916895.8429718,4,Gulf of Mexico
+1983,Great Lakes,61180570.0,13834130.0,Commercial,99.6,3.05925702811245,42322159.43032128,9,Great Lakes
+1983,Alaska,978831209.0,547831657.0,Commercial,99.6,3.05925702811245,1675957846.899739,6,North Pacific
+1982,South Atlantic,430861081.0,169303289.0,Commercial,96.5,3.1575336787564767,534580836.94174093,3,South Atlantic
+1982,Pacific Coast,1183664337.0,386810308.0,Commercial,96.5,3.1575336787564767,1221366574.800166,5,Pacific
+1982,New England,711792400.0,396617483.0,Commercial,96.5,3.1575336787564767,1252333060.1561244,1,New England
+1982,Middle Atlantic,913208800.0,212357607.0,Commercial,96.5,3.1575336787564767,670526296.0426321,2,Mid-Atlantic
+1982,Hawaii,14245000.0,14426000.0,Commercial,96.5,3.1575336787564767,45550580.84974093,8,Western Pacific
+1982,Gulf,2298388755.0,623903999.0,Commercial,96.5,3.1575336787564767,1969997889.1533473,4,Gulf of Mexico
+1982,Great Lakes,47705529.0,13688818.0,Commercial,96.5,3.1575336787564767,43222903.85736787,9,Great Lakes
+1982,Alaska,886023391.0,571347763.0,Commercial,96.5,3.1575336787564767,1804049803.9546735,6,North Pacific
+1981,South Atlantic,537673292.0,132938654.0,Commercial,90.9,3.352057205720572,445617973.05949396,3,South Atlantic
+1981,Pacific Coast,1247790724.0,435124059.0,Commercial,90.9,3.352057205720572,1458560737.3533332,5,Pacific
+1981,New England,721756800.0,377108318.0,Commercial,90.9,3.352057205720572,1264088654.689065,1,New England
+1981,Middle Atlantic,834186600.0,217587884.0,Commercial,90.9,3.352057205720572,729367034.4396919,2,Mid-Atlantic
+1981,Hawaii,13396000.0,18338000.0,Commercial,90.9,3.352057205720572,61470025.03850385,8,Western Pacific
+1981,Gulf,1680908069.0,566622337.0,Commercial,90.9,3.352057205720572,1899350487.6630802,4,Gulf of Mexico
+1981,Great Lakes,48056947.0,15660436.0,Commercial,90.9,3.352057205720572,52494677.338525854,9,Great Lakes
+1981,Alaska,985682614.0,634627039.0,Commercial,90.9,3.352057205720572,2127306139.0250604,6,North Pacific
+1980,South Atlantic,476710955.0,153382569.0,Commercial,82.4,3.6978398058252426,567184169.1679369,3,South Atlantic
+1980,Pacific Coast,1383844043.0,446875896.0,Commercial,82.4,3.6978398058252426,1652475476.4926214,5,Pacific
+1980,New England,794219100.0,344452351.0,Commercial,82.4,3.6978398058252426,1273729614.7378883,1,New England
+1980,Middle Atlantic,968023800.0,231417424.0,Commercial,82.4,3.6978398058252426,855744562.2287378,2,Mid-Atlantic
+1980,Gulf,1936940173.0,507750184.0,Commercial,82.4,3.6978398058252426,1877578841.8102913,4,Gulf of Mexico
+1980,Great Lakes,48754368.0,15710509.0,Commercial,82.4,3.6978398058252426,58094945.54997573,9,Great Lakes
+1980,Alaska,998600681.0,547754840.0,Commercial,82.4,3.6978398058252426,2025509651.185437,6,North Pacific
+1979,South Atlantic,489645790.0,146645143.0,Commercial,72.6,4.196997245179063,615469261.1898898,3,South Atlantic
+1979,Pacific Coast,1412682005.0,409202666.0,Commercial,72.6,4.196997245179063,1717422461.9219284,5,Pacific
+1979,New England,708289400.0,302089533.0,Commercial,72.6,4.196997245179063,1267868937.7984297,1,New England
+1979,Middle Atlantic,877030700.0,216922438.0,Commercial,72.6,4.196997245179063,910422874.7035261,2,Mid-Atlantic
+1979,Gulf,2098720176.0,548750210.0,Commercial,72.6,4.196997245179063,2303103119.6614327,4,Gulf of Mexico
+1979,Great Lakes,55773501.0,12779925.0,Commercial,72.6,4.196997245179063,53637310.01859504,9,Great Lakes
+1979,Alaska,881886594.0,652052261.0,Commercial,72.6,4.196997245179063,2736661543.12978,6,North Pacific
+1978,South Atlantic,377380351.0,84286396.0,Commercial,65.2,4.673343558282208,393899285.79742324,3,South Atlantic
+1978,Pacific Coast,1296442070.0,370909899.0,Commercial,65.2,4.673343558282208,1733389387.1947544,5,Pacific
+1978,New England,663316100.0,262121925.0,Commercial,65.2,4.673343558282208,1224985809.6832821,1,New England
+1978,Middle Atlantic,801660800.0,174804738.0,Commercial,65.2,4.673343558282208,816922596.289509,2,Mid-Atlantic
+1978,Gulf,2234812529.0,484771571.0,Commercial,65.2,4.673343558282208,2265504098.571196,4,Gulf of Mexico
+1978,Great Lakes,69824434.0,10534189.0,Commercial,65.2,4.673343558282208,49229884.304877296,9,Great Lakes
+1978,Alaska,784395354.0,504883505.0,Commercial,65.2,4.673343558282208,2359494075.774693,6,North Pacific
+1977,South Atlantic,346863800.0,71242500.0,Commercial,60.6,5.028085808580858,358213403.2178218,3,South Atlantic
+1977,Pacific Coast,1395733524.0,327533981.0,Commercial,60.6,5.028085808580858,1646868961.6940925,5,Pacific
+1977,New England,585965000.0,207221950.0,Commercial,60.6,5.028085808580858,1041929746.0214522,1,New England
+1977,Middle Atlantic,885219600.0,157027509.0,Commercial,60.6,5.028085808580858,789547789.559703,2,Mid-Atlantic
+1977,Gulf,1482431100.0,408380520.0,Commercial,60.6,5.028085808580858,2053372297.1128714,4,Gulf of Mexico
+1977,Great Lakes,72843041.0,10220824.0,Commercial,60.6,5.028085808580858,51391180.10640264,9,Great Lakes
+1977,Alaska,674933300.0,349198050.0,Commercial,60.6,5.028085808580858,1755797759.589109,6,North Pacific
+1976,South Atlantic,318481900.0,73955395.0,Commercial,56.9,5.355043936731107,396034389.58330405,3,South Atlantic
+1976,Pacific Coast,1470730062.0,303195187.0,Commercial,56.9,5.355043936731107,1623623547.790404,5,Pacific
+1976,New England,547480100.0,174138203.0,Commercial,56.9,5.355043936731107,932517728.1284007,1,New England
+1976,Middle Atlantic,855775000.0,142991964.0,Commercial,56.9,5.355043936731107,765728249.8194728,2,Mid-Atlantic
+1976,Gulf,1742620920.0,386432819.0,Commercial,56.9,5.355043936731107,2069364724.3398595,4,Gulf of Mexico
+1976,Great Lakes,66720570.0,10536860.0,Commercial,56.9,5.355043936731107,56425348.25518453,9,Great Lakes
+1976,Alaska,650006600.0,242120381.0,Commercial,56.9,5.355043936731107,1296565278.2330756,6,North Pacific
+1975,South Atlantic,333073100.0,63575362.0,Commercial,53.8,5.66360594795539,360065798.3666171,3,South Atlantic
+1975,Pacific Coast,1450422400.0,227604330.0,Commercial,53.8,5.66360594795539,1289061237.1684015,5,Pacific
+1975,New England,498363300.0,154131958.0,Commercial,53.8,5.66360594795539,872942674.0988104,1,New England
+1975,Middle Atlantic,697215500.0,105767056.0,Commercial,53.8,5.66360594795539,599022927.4593308,2,Mid-Atlantic
+1975,Gulf,1654036100.0,270582479.0,Commercial,53.8,5.66360594795539,1532472537.4769144,4,Gulf of Mexico
+1975,Great Lakes,61795382.0,9111666.0,Commercial,53.8,5.66360594795539,51604885.7533829,9,Great Lakes
+1975,Alaska,444143600.0,129713179.0,Commercial,53.8,5.66360594795539,734644332.1126022,6,North Pacific
+1974,South Atlantic,304662900.0,50787440.0,Commercial,49.3,6.180567951318459,313895223.9935091,3,South Atlantic
+1974,Pacific Coast,1267298000.0,241065702.0,Commercial,49.3,6.180567951318459,1489922951.943286,5,Pacific
+1974,New England,522491700.0,124334408.0,Commercial,49.3,6.180567951318459,768457257.3309534,1,New England
+1974,Middle Atlantic,808237700.0,101609044.0,Commercial,49.3,6.180567951318459,628001600.9105071,2,Mid-Atlantic
+1974,Gulf,1775800000.0,242225945.0,Commercial,49.3,6.180567951318459,1497093912.6448276,4,Gulf of Mexico
+1974,Great Lakes,78474088.0,10522295.0,Commercial,49.3,6.180567951318459,65033759.25131846,9,Great Lakes
+1974,Alaska,463084640.0,145220050.0,Commercial,49.3,6.180567951318459,897542386.9188641,6,North Pacific
+1973,South Atlantic,240164800.0,57286781.0,Commercial,44.4,6.862657657657658,393139566.3122072,3,South Atlantic
+1973,Pacific Coast,1272902500.0,215777748.0,Commercial,44.4,6.862657657657658,1480808814.6643243,5,Pacific
+1973,New England,518146500.0,117183927.0,Commercial,44.4,6.862657657657658,804193173.980946,1,New England
+1973,Middle Atlantic,957923400.0,104886369.0,Commercial,44.4,6.862657657657658,719799243.4017568,2,Mid-Atlantic
+1973,Gulf,1543735300.0,266634944.0,Commercial,44.4,6.862657657657658,1829824340.2407207,4,Gulf of Mexico
+1973,Great Lakes,68583134.0,8963477.0,Commercial,44.4,6.862657657657658,61513274.07328829,9,Great Lakes
+1973,Alaska,466285900.0,152299269.0,Commercial,44.4,6.862657657657658,1045177744.6585135,6,North Pacific
+1972,South Atlantic,286323000.0,44874601.0,Commercial,41.8,7.289521531100479,327114370.1890431,3,South Atlantic
+1972,Pacific Coast,1190574400.0,166435429.0,Commercial,41.8,7.289521531100479,1213234643.233445,5,Pacific
+1972,New England,489254400.0,106638658.0,Commercial,41.8,7.289521531100479,777344793.5386603,1,New England
+1972,Middle Atlantic,976232300.0,85002350.0,Commercial,41.8,7.289521531100479,619626460.5191388,2,Mid-Atlantic
+1972,Gulf,1587892600.0,224450815.0,Commercial,41.8,7.289521531100479,1636139048.6155503,4,Gulf of Mexico
+1972,Great Lakes,59654867.0,7075058.0,Commercial,41.8,7.289521531100479,51573787.62478469,9,Great Lakes
+1972,Alaska,455766400.0,102089981.0,Commercial,41.8,7.289521531100479,744187114.6091388,6,North Pacific
+1971,South Atlantic,258053456.0,41693162.0,Commercial,40.5,7.5235061728395065,313678761.6721975,3,South Atlantic
+1971,Pacific Coast,1106423720.0,140184309.0,Commercial,40.5,7.5235061728395065,1054677514.0967408,5,Pacific
+1971,New England,513523700.0,94644224.0,Commercial,40.5,7.5235061728395065,712056403.487605,1,New England
+1971,Middle Atlantic,728442300.0,73906617.0,Commercial,40.5,7.5235061728395065,556036889.2131852,2,Mid-Atlantic
+1971,Gulf,2096180983.0,199047842.0,Commercial,40.5,7.5235061728395065,1497537667.977383,4,Gulf of Mexico
+1971,Great Lakes,64361072.0,5197480.0,Commercial,40.5,7.5235061728395065,39103272.86320988,9,Great Lakes
+1971,Alaska,471218200.0,83766504.0,Commercial,40.5,7.5235061728395065,630217809.9211853,6,North Pacific
+1970,South Atlantic,280365735.0,29841086.0,Commercial,38.8,7.8531443298969075,234346355.31886598,3,South Atlantic
+1970,Pacific Coast,1187882100.0,142721587.0,Commercial,38.8,7.8531443298969075,1120813221.702938,5,Pacific
+1970,New England,531271500.0,91031805.0,Commercial,38.8,7.8531443298969075,714885903.2760309,1,New England
+1970,Middle Atlantic,770440700.0,70457999.0,Commercial,38.8,7.8531443298969075,553316835.342732,2,Mid-Atlantic
+1970,Gulf,1622605345.0,164769363.0,Commercial,38.8,7.8531443298969075,1293957588.7841754,4,Gulf of Mexico
+1970,Alaska,545325545.0,96117726.0,Commercial,38.8,7.8531443298969075,754826374.9394846,6,North Pacific
+1969,South Atlantic,318708900.0,36358046.0,Commercial,36.7,8.302506811989101,301862924.5856131,3,South Atlantic
+1969,Pacific Coast,1072362100.0,110985034.0,Commercial,36.7,8.302506811989101,921454000.8138419,5,Pacific
+1969,New England,568257700.0,80577001.0,Commercial,36.7,8.302506811989101,668991099.6921526,1,New England
+1969,Middle Atlantic,491946200.0,61648866.0,Commercial,36.7,8.302506811989101,511840129.9164033,2,Mid-Atlantic
+1969,Gulf,1614144090.0,152281695.0,Commercial,36.7,8.302506811989101,1264319810.0787466,4,Gulf of Mexico
+1969,Alaska,386090000.0,70430693.0,Commercial,36.7,8.302506811989101,584751308.4056131,6,North Pacific
+1968,South Atlantic,339440500.0,32942043.0,Commercial,34.8,8.75580459770115,288434091.557069,3,South Atlantic
+1968,Pacific Coast,937167800.0,95415144.0,Commercial,34.8,8.75580459770115,835436356.5255173,5,Pacific
+1968,New England,634749000.0,75656127.0,Commercial,34.8,8.75580459770115,662430264.6308621,1,New England
+1968,Middle Atlantic,624388500.0,61723194.0,Commercial,34.8,8.75580459770115,540436225.8100001,2,Mid-Atlantic
+1968,Gulf,1288819496.0,138608413.0,Commercial,34.8,8.75580459770115,1213628179.82546,4,Gulf of Mexico
+1968,Alaska,549739200.0,79093030.0,Commercial,34.8,8.75580459770115,692523115.7201151,6,North Pacific
+1967,South Atlantic,353344000.0,25025103.0,Commercial,33.4,9.122814371257485,228299369.2905988,3,South Atlantic
+1967,Pacific Coast,1034146100.0,96477291.0,Commercial,33.4,9.122814371257485,880144416.8347905,5,Pacific
+1967,New England,625340000.0,70256504.0,Commercial,33.4,9.122814371257485,640937044.365509,1,New England
+1967,Middle Atlantic,584379600.0,59006151.0,Commercial,33.4,9.122814371257485,538302162.3353893,2,Mid-Atlantic
+1967,Gulf,1176279474.0,125957769.0,Commercial,33.4,9.122814371257485,1149089345.2047305,4,Gulf of Mexico
+1967,Alaska,361345100.0,47790051.0,Commercial,33.4,9.122814371257485,435979764.06592816,6,North Pacific
+1966,South Atlantic,367776100.0,27068252.0,Commercial,32.4,9.404382716049383,254560201.26246914,3,South Atlantic
+1966,Pacific Coast,908335600.0,90892120.0,Commercial,32.4,9.404382716049383,854784282.3530865,5,Pacific
+1966,New England,684374800.0,78247363.0,Commercial,32.4,9.404382716049383,735868148.173642,1,New England
+1966,Middle Atlantic,669601300.0,56814003.0,Commercial,32.4,9.404382716049383,534300627.8427778,2,Mid-Atlantic
+1966,Gulf,1194940297.0,122178041.0,Commercial,32.4,9.404382716049383,1149009057.061173,4,Gulf of Mexico
+1966,Alaska,581670400.0,80717709.0,Commercial,32.4,9.404382716049383,759100227.3987038,6,North Pacific
+1965,South Atlantic,356651900.0,26789609.0,Commercial,31.5,9.673079365079365,259138014.01644444,3,South Atlantic
+1965,Pacific Coast,921823000.0,81987863.0,Commercial,31.5,9.673079365079365,793075105.772254,5,Pacific
+1965,New England,702181676.0,74837045.0,Commercial,31.5,9.673079365079365,723904675.7330159,1,New England
+1965,Middle Atlantic,947485000.0,64870200.0,Commercial,31.5,9.673079365079365,627494593.0285715,2,Mid-Atlantic
+1965,Gulf,1462764662.0,113348529.0,Commercial,31.5,9.673079365079365,1096429316.932,4,Gulf of Mexico
+1965,Alaska,492195300.0,70327090.0,Commercial,31.5,9.673079365079365,680279523.0850794,6,North Pacific
+1964,South Atlantic,335831900.0,20602150.0,Commercial,31.0,9.829096774193548,202500526.1064516,3,South Atlantic
+1964,Pacific Coast,909751600.0,76979017.0,Commercial,31.0,9.829096774193548,756634207.6752903,5,Pacific
+1964,New England,681856290.0,67595000.0,Commercial,31.0,9.829096774193548,664397796.451613,1,New England
+1964,Middle Atlantic,906818900.0,56845406.0,Commercial,31.0,9.829096774193548,558738996.7423226,2,Mid-Atlantic
+1964,Gulf,1331326072.0,104463698.0,Commercial,31.0,9.829096774193548,1026783797.032129,4,Gulf of Mexico
+1964,Alaska,492613600.0,56015510.0,Commercial,31.0,9.829096774193548,550581868.6458064,6,North Pacific
+1963,South Atlantic,370716800.0,19467844.0,Commercial,30.6,9.957581699346404,193852647.1401307,3,South Atlantic
+1963,Pacific Coast,964716400.0,81966582.0,Commercial,30.6,9.957581699346404,816188936.8811764,5,Pacific
+1963,New England,828889000.0,68289224.0,Commercial,30.6,9.957581699346404,679995527.1649673,1,New England
+1963,Middle Atlantic,980672100.0,51148061.0,Commercial,30.6,9.957581699346404,509310996.1706535,2,Mid-Atlantic
+1963,Gulf,1404021480.0,101142296.0,Commercial,30.6,9.957581699346404,1007132675.679477,4,Gulf of Mexico
+1963,Alaska,391937500.0,45702680.0,Commercial,30.6,9.957581699346404,455088169.9790849,6,North Pacific
+1962,South Atlantic,305415700.0,23461626.0,Commercial,30.2,10.089470198675496,236715376.33947018,3,South Atlantic
+1962,Pacific Coast,974142700.0,85877354.0,Commercial,30.2,10.089470198675496,866457003.9241059,5,Pacific
+1962,New England,871681800.0,65774625.0,Commercial,30.2,10.089470198675496,663631118.7665563,1,New England
+1962,Middle Atlantic,1464981600.0,58819321.0,Commercial,30.2,10.089470198675496,593455786.3358278,2,Mid-Atlantic
+1962,Gulf,1438279415.0,96924492.0,Commercial,30.2,10.089470198675496,977916773.5557616,4,Gulf of Mexico
+1962,Alaska,429217800.0,57241650.0,Commercial,30.2,10.089470198675496,577537921.7980132,6,North Pacific
+1961,South Atlantic,402245600.0,19935936.0,Commercial,29.9,10.190702341137124,203161189.66795987,3,South Atlantic
+1961,Pacific Coast,1024082500.0,85252263.0,Commercial,29.9,10.190702341137124,868780436.1413378,5,Pacific
+1961,New England,760292300.0,60860267.0,Commercial,29.9,10.190702341137124,620208865.3991305,1,New England
+1961,Middle Atlantic,1304245600.0,61186719.0,Commercial,29.9,10.190702341137124,623535640.5597993,2,Mid-Atlantic
+1961,Gulf,1377111300.0,75520083.0,Commercial,29.9,10.190702341137124,769602686.6309699,4,Gulf of Mexico
+1961,Alaska,413468300.0,46469660.0,Commercial,29.9,10.190702341137124,473558472.95384616,6,North Pacific
+1960,South Atlantic,378879500.0,20229696.0,Commercial,29.6,10.293986486486485,208244217.2497297,3,South Atlantic
+1960,Pacific Coast,939349020.0,74637065.0,Commercial,29.6,10.293986486486485,768312938.5010134,5,Pacific
+1960,New England,851965100.0,61475975.0,Commercial,29.6,10.293986486486485,632832855.893581,1,New England
+1960,Middle Atlantic,1220233800.0,56721631.0,Commercial,29.6,10.293986486486485,583891703.0054729,2,Mid-Atlantic
+1960,Gulf,1265950869.0,85458319.0,Commercial,29.6,10.293986486486485,879706780.9438512,4,Gulf of Mexico
+1960,Alaska,357712675.0,40933863.0,Commercial,29.6,10.293986486486485,421372632.56168914,6,North Pacific
+1959,South Atlantic,468712300.0,18870951.0,Commercial,29.1,10.47085910652921,197595069.1272165,3,South Atlantic
+1959,Pacific Coast,905599900.0,77837512.0,Commercial,29.1,10.47085910652921,815025621.3547766,5,Pacific
+1959,New England,933206400.0,66236498.0,Commercial,29.1,10.47085910652921,693553038.2679038,1,New England
+1959,Middle Atlantic,1350284200.0,61299701.0,Commercial,29.1,10.47085910652921,641860532.4433677,2,Mid-Atlantic
+1959,Gulf,1154950700.0,77639851.0,Commercial,29.1,10.47085910652921,812955940.872921,4,Gulf of Mexico
+1959,Alaska,323522817.0,28786695.0,Commercial,29.1,10.47085910652921,301421427.4876289,6,North Pacific
+1958,South Atlantic,375655100.0,20077785.0,Commercial,28.9,10.543321799307959,211686548.27231836,3,South Atlantic
+1958,Pacific Coast,1123528900.0,92750509.0,Commercial,28.9,10.543321799307959,977898463.436609,5,Pacific
+1958,New England,997747600.0,65480052.0,Commercial,28.9,10.543321799307959,690377259.6714187,1,New England
+1958,Middle Atlantic,1129270740.0,59965076.0,Commercial,28.9,10.543321799307959,632231092.9879586,2,Mid-Atlantic
+1958,Gulf,808836600.0,86539158.0,Commercial,28.9,10.543321799307959,912410191.0351558,4,Gulf of Mexico
+1958,Alaska,379086315.0,33196757.0,Commercial,28.9,10.543321799307959,350004091.7444291,6,North Pacific
+1957,South Atlantic,335187700.0,20649018.0,Commercial,28.1,10.843487544483985,223907369.4888256,3,South Atlantic
+1957,Pacific Coast,1005939600.0,78808685.0,Commercial,28.1,10.843487544483985,854560994.1946619,5,Pacific
+1957,New England,1030884100.0,60809755.0,Commercial,28.1,10.843487544483985,659389820.9256227,1,New England
+1957,Middle Atlantic,1376945200.0,61351557.0,Commercial,28.1,10.843487544483985,665264844.1641992,2,Mid-Atlantic
+1957,Gulf,691932900.0,84363714.0,Commercial,28.1,10.843487544483985,914796881.9654092,4,Gulf of Mexico
+1957,Alaska,371117428.0,31554199.0,Commercial,28.1,10.843487544483985,342157563.832669,6,North Pacific
+1956,South Atlantic,443944800.0,19920812.0,Commercial,27.2,11.202279411764707,223158502.1332353,3,South Atlantic
+1956,Pacific Coast,1095837900.0,88230212.0,Commercial,27.2,11.202279411764707,988379487.3832353,5,Pacific
+1956,New England,1015245500.0,59272509.0,Commercial,27.2,11.202279411764707,663987207.2543383,1,New England
+1956,Middle Atlantic,1432143400.0,63803500.0,Commercial,27.2,11.202279411764707,714744634.4485295,2,Mid-Atlantic
+1956,Gulf,899773800.0,85377584.0,Commercial,27.2,11.202279411764707,956423551.4694118,4,Gulf of Mexico
+1956,Alaska,428145781.0,37739047.0,Commercial,27.2,11.202279411764707,422763349.2277206,6,North Pacific
+1955,South Atlantic,346573700.0,17274433.0,Commercial,26.8,11.369477611940297,196401279.25246266,3,South Atlantic
+1955,Pacific Coast,1048165600.0,83547465.0,Commercial,26.8,11.369477611940297,949891032.8518655,5,Pacific
+1955,New England,955418100.0,57242953.0,Commercial,26.8,11.369477611940297,650822472.5748507,1,New England
+1955,Middle Atlantic,1369383700.0,60859731.0,Commercial,26.8,11.369477611940297,691943349.0732089,2,Mid-Atlantic
+1955,Gulf,829638900.0,76286847.0,Commercial,26.8,11.369477611940297,867341599.0520148,4,Gulf of Mexico
+1955,Alaska,315322898.0,26767572.0,Commercial,26.8,11.369477611940297,304333310.58,6,North Pacific
+1954,South Atlantic,326063200.0,17560384.0,Commercial,26.9,11.32721189591078,198910190.54156134,3,South Atlantic
+1954,Pacific Coast,1038237900.0,99612567.0,Commercial,26.9,11.32721189591078,1128332653.9046097,5,Pacific
+1954,New England,966440800.0,57601534.0,Commercial,26.9,11.32721189591078,652464781.1475092,1,New England
+1954,Middle Atlantic,1360656500.0,62599935.0,Commercial,26.9,11.32721189591078,709082728.4152416,2,Mid-Atlantic
+1954,Gulf,754699900.0,72572237.0,Commercial,26.9,11.32721189591078,822041106.2592565,4,Gulf of Mexico
+1954,Alaska,337628720.0,31251041.0,Commercial,26.9,11.32721189591078,353987163.37479556,6,North Pacific
+1953,South Atlantic,326544800.0,20157158.0,Commercial,26.7,11.412059925093633,230034695.01558053,3,South Atlantic
+1953,Pacific Coast,987270600.0,88061836.0,Commercial,26.7,11.412059925093633,1004966949.5457678,5,Pacific
+1953,New England,864005000.0,60111970.0,Commercial,26.7,11.412059925093633,686001403.8554307,1,New England
+1953,Middle Atlantic,1307271900.0,56719666.0,Commercial,26.7,11.412059925093633,647288227.3232958,2,Mid-Atlantic
+1953,Gulf,759392700.0,85157157.0,Commercial,26.7,11.412059925093633,971818578.7346067,4,Gulf of Mexico
+1953,Alaska,296966462.0,26466835.0,Commercial,26.7,11.412059925093633,302041107.0475655,6,North Pacific
+1952,South Atlantic,436305000.0,19616828.0,Commercial,26.5,11.498188679245283,225557989.6323019,3,South Atlantic
+1952,Pacific Coast,1052179500.0,94098945.0,Commercial,26.5,11.498188679245283,1081967424.1279244,5,Pacific
+1952,New England,954562500.0,67295992.0,Commercial,26.5,11.498188679245283,773782013.3729811,1,New England
+1952,Middle Atlantic,878081800.0,55790013.0,Commercial,26.5,11.498188679245283,641484095.8915472,2,Mid-Atlantic
+1952,Gulf,759507100.0,68220786.0,Commercial,26.5,11.498188679245283,784415469.2744151,4,Gulf of Mexico
+1952,Alaska,374184175.0,37238384.0,Commercial,26.5,11.498188679245283,428173965.34218866,6,North Pacific
+1951,South Atlantic,310779300.0,17965732.0,Commercial,26.0,11.719307692307693,210545941.22553846,3,South Atlantic
+1951,Pacific Coast,1296517000.0,100746805.0,Commercial,26.0,11.719307692307693,1180682806.811923,5,Pacific
+1951,New England,916807600.0,67431668.0,Commercial,26.0,11.719307692307693,790252465.4975384,1,New England
+1951,Middle Atlantic,886781500.0,54741099.0,Commercial,26.0,11.719307692307693,641527782.596077,2,Mid-Atlantic
+1951,Gulf,649668300.0,63623145.0,Commercial,26.0,11.719307692307693,745619212.6073077,4,Gulf of Mexico
+1951,Alaska,407726696.0,39260240.0,Commercial,26.0,11.719307692307693,460102832.63384616,6,North Pacific
+1950,South Atlantic,260881400.0,18943779.0,Commercial,24.1,12.64323651452282,239510678.37585062,3,South Atlantic
+1950,Pacific Coast,1716453400.0,110917048.0,Commercial,24.1,12.64323651452282,1402350471.3566804,5,Pacific
+1950,New England,1006589500.0,60576490.0,Commercial,24.1,12.64323651452282,765882890.2896265,1,New England
+1950,Middle Atlantic,873150700.0,53973253.0,Commercial,24.1,12.64323651452282,682396603.1371784,2,Mid-Atlantic
+1950,Gulf,570641100.0,50357945.0,Commercial,24.1,12.64323651452282,636687409.0203319,4,Gulf of Mexico
+1950,Alaska,482292622.0,31371626.0,Commercial,24.1,12.64323651452282,396638887.3631535,6,North Pacific

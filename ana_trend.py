@@ -23,7 +23,7 @@ plt.rcParams['figure.dpi'] = 300
 # Create a pivot table to organize data by year and region
 # Assuming your region column is called 'region name'
 pivot_df = landings.pivot_table(
-    values='dollars',
+    values='dollars_adjusted',
     index='year',
     columns='council_name',
     aggfunc='sum'
@@ -39,7 +39,7 @@ ax = pivot_df.plot(
 )
 
 # Customize the plot
-plt.title('Total Landing Value by Council (1950-2020)', fontsize=14)
+plt.title('Total Landing Value by Council (1950-2023)', fontsize=14)
 plt.xlabel('Year', fontsize=12)
 plt.ylabel('Dollars ($)', fontsize=12)
 plt.xticks(rotation=45)
@@ -48,12 +48,12 @@ plt.axvline(x=1976, color='gray', linestyle='--')
 plt.axvline(x=1996, color='gray', linestyle='--')
 plt.axvline(x=2007, color='gray', linestyle='--')
 
-plt.text(1976, 1500000000, "Fishery Conservation \nand Management Act \nof 1976 ", ha='center', fontsize=8, alpha=0.7)
-plt.text(1996, 1800000000, "Sustainable Fisheries \nAct of 1996 ", ha='center', fontsize=8, alpha=0.7)
-plt.text(2011, 2200000000, "Magnuson-Stevens \nReauthorization Act of 2007", ha='center', fontsize=8, alpha=0.7)
+plt.text(1976, 3000000000, "Fishery Conservation \nand Management Act \nof 1976 ", ha='center', fontsize=8, alpha=0.7)
+plt.text(1996, 3800000000, "Sustainable Fisheries \nAct of 1996 ", ha='center', fontsize=8, alpha=0.7)
+plt.text(2011, 4500000000, "Magnuson-Stevens \nReauthorization Act of 2007", ha='center', fontsize=8, alpha=0.7)
 
 plt.xlim(1940, 2025)
-plt.ylim(0, 2500000000) 
+plt.ylim(0, 5000000000) 
 
 # Format y-axis to show dollar values in millions/thousands
 from matplotlib.ticker import FuncFormatter
@@ -126,7 +126,7 @@ plt.legend(title='Council Name', loc='lower center', bbox_to_anchor=(0.5, -0.86)
 # Format y-axis to show dollar values in millions/thousands
 from matplotlib.ticker import FuncFormatter
 def millions(x, pos):
-    return f'${x/1000000:.1f}M' if x >= 1000000 else f'${x/1000:.0f}K'
+    return f'{x/1000000:.1f}M' if x >= 1000000 else f'{x/1000:.0f}K'
 ax.yaxis.set_major_formatter(FuncFormatter(millions))
 
 # Add grid lines for better readability
@@ -140,7 +140,5 @@ plt.show()
 
 
 
-#%%
-## Section 3. Plot of
 
 
