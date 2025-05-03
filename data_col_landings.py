@@ -10,11 +10,11 @@ Created on Tue Apr 29 10:58:29 2025
 ## Section 1. Pre-process the data: rename, data type, and check
 import pandas as pd
 
-landings = pd.read_csv(r'data/FOSS_landings.csv', skiprows=1)
-landings = landings[['Year', 'NMFS Name', 'Pounds', 'Dollars', 'Collection']]
+landings = pd.read_csv(r'data/FOSS_landings.csv')
+landings = landings[['Year', 'Region Name', 'Pounds', 'Dollars', 'Collection']]
 
 value_names = {'Year': 'year',
-               'NMFS Name': 'region',
+               'Region Name': 'region',
                'Pounds': 'pounds',
                'Dollars': 'dollars',
                'Collection': 'sector'
