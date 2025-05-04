@@ -100,7 +100,7 @@ ax = pivot_df.plot(
 )
 
 # Customize the plot
-plt.title('Total Paid License Holders by Council (1960-2020)', fontsize=14)
+plt.title('Total Paid License Holders by Council (1960-2025)', fontsize=14)
 plt.xlabel('Year', fontsize=12)
 plt.ylabel('Number', fontsize=12)
 plt.xticks(rotation=45)
