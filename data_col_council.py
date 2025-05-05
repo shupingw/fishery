@@ -148,15 +148,10 @@ def export_mapping():
     df.to_csv('fishery_council_mapping.csv', index=False)
     print("Mapping exported to 'fishery_council_mapping.csv'")
 
-# Example usage:
-# 1. Create and export the mapping table
+
+# Create and export the mapping table
 export_mapping()
 
-# 2. If you have a state shapefile, create a map
-# Uncomment the following line and provide the path to your shapefile
+# create council maps
 states_with_councils = create_fishery_council_map('data/tl_2019_us_state.zip')
 
-# For demonstration purposes, let's show how to use the mapping
-sample_states = ['06', '12', '36', '53']  # California, Florida, New York, Washington
-for state in sample_states:
-    print(f"State FIPS {state} belongs to the {get_council_name(state)} Fishery Management Council")
