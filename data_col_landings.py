@@ -96,7 +96,6 @@ council_names = {
 }
 
 
-
 # Create new columns with default values
 landings['council_id'] = 'Unknown'
 landings['council_name'] = 'Unknown'

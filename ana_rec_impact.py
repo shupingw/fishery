@@ -74,9 +74,7 @@ import matplotlib.pyplot as plt
 from adjustText import adjust_text
 
 
-
 df = merged
-
 
 # Proceed with filtering based on actual data
 jobs_data = df[df['Impact Type'] == '#Jobs'].copy()

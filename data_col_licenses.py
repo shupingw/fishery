@@ -24,7 +24,7 @@ variables = {'Year': 'year',
              'Place Name': 'state',
              'Paid Fishing License Holders': 'paid_holders',
              'Resident Fishing Licenses, Tags, Permits and Stamps' : 'resident_licenses',
-             'Non-Resident Fishing Licenses,\nTags, Permits and Stamps': 'nonresident_licenses',
+             'Non-Resident Fishing Licenses,\r\nTags, Permits and Stamps': 'nonresident_licenses',
              'Gross Cost ($2024) - Fishing Licenses': 'gross_cost',
              'Cost ($2024)- Resident Fishing Licenses,Tags, Permits and Stamps': 'resident_cost',
              'Cost ($2024) - Non-Resident Fishing Licenses,Tags, Permits and Stamps': 'nonresident_cost'
@@ -93,15 +93,15 @@ print(na_by_column)
 #%%
 ## Section 2: merge with council id and name
 ## Section 2.1: merge with state population data match state name with fips
-##pop = pd.read_csv('pop7017.csv')
+pop = pd.read_csv('data/pop7017.csv')
 
-##pop['fips'] = pop['fips'].astype(object)
+pop['fips'] = pop['fips'].astype(object)
 
-##licenses = licenses.merge(
-##    pop[['fips', 'pop', 'year']], 
-##    on=['fips', 'year'],                      
-##    how='left'                      
-##)
+licenses = licenses.merge(
+    pop[['fips', 'pop', 'year']], 
+    on=['fips', 'year'],                      
+    how='left'                      
+)
 
 
 value_counts = licenses['fips'].value_counts()
